@@ -1,0 +1,70 @@
+Country,year_income_gross,month_income_gross,ISO,Currency
+Monaco,186080,15507,Monaco,EUR
+Bermuda,122470,10206,Bermuda,BMD
+Switzerland,90600,7550,Switzerland,CHF
+Luxembourg,88190,7349,Luxembourg,EUR
+Norway,83880,6990,Norway,NOK
+Ireland,76110,6343,Ireland,EUR
+United States,70930,5911,United States,USD
+Denmark,68300,5692,Denmark,DKK
+Singapore,64010,5334,Singapore,SGD
+Iceland,63460,5288,Iceland,ISK
+Qatar,62310,5193,Qatar,QAR
+Sweden,59540,4962,Sweden,SEK
+Australia,57170,4764,Australia,AUD
+Netherlands,55200,4600,Netherlands,EUR
+Hong Kong,54460,4538,Hong Kong,HKD
+Finland,53510,4459,Finland,EUR
+Austria,52760,4397,Austria,EUR
+Germany,51660,4305,Germany,EUR
+Belgium,50490,4208,Belgium,EUR
+Israel,49290,4108,Israel,ILS
+Canada,48310,4026,Canada,CAD
+Macao,46450,3871,Macao,MOP
+New Zealand,45230,3769,New Zealand,NZD
+United Kingdom,44480,3707,United Kingdom,GBP
+France,44160,3680,France,EUR
+Japan,42650,3554,Japan,JPY
+United Arab Emirates,41770,3481,United Arab Emirates,AED
+Italy,35990,2999,Italy,EUR
+South Korea,35110,2926,"Korea, Republic of",KRW
+Brunei,30320,2527,Brunei Darussalam,BND
+Spain,29690,2474,Spain,EUR
+Portugal,23890,1991,Portugal,EUR
+Bahrain,22950,1913,Bahrain,BHD
+Saudi Arabia,21540,1795,Saudi Arabia,SAR
+Greece,20000,1667,Greece,EUR
+Hungary,17740,1478,Hungary,HUF
+Croatia,17630,1469,Croatia,HRK
+Poland,16850,1404,Poland,PLN
+Romania,14160,1180,Romania,RON
+Costa Rica,12310,1026,Costa Rica,CRC
+China,11880,990,China,CNY
+Russia,11610,968,Russian Federation,RUB
+Malaysia,10710,893,Malaysia,MYR
+Argentina,9960,830,Argentina,ARS
+Turkey,9900,825,Turkey,TRY
+Mexico,9590,799,Mexico,MXN
+Brazil,7740,645,Brazil,BRL
+Thailand,7090,591,Thailand,THB
+South Africa,6530,544,South Africa,ZAR
+Colombia,6190,516,Colombia,COP
+Ecuador,5960,497,Ecuador,USD
+Indonesia,4180,348,Indonesia,IDR
+Ukraine,4120,343,Ukraine,UAH
+Sri Lanka,4030,336,Sri Lanka,LKR
+Morocco,3620,302,Morocco,MAD
+Vietnam,3590,299,Viet Nam,VND
+Philippines,3550,296,Philippines,PHP
+Iran,3530,294,"Iran, Islamic Republic of",IRR
+Egypt,3350,279,Egypt,EGP
+Bangladesh,2570,214,Bangladesh,BDT
+India,2150,179,India,INR
+Nigeria,2080,173,Nigeria,NGN
+Cameroon,1590,133,Cameroon,XAF
+Cambodia,1580,132,Cambodia,KHR
+Pakistan,1470,123,Pakistan,PKR
+Nepal,1220,102,Nepal,NPR
+Timor-Leste,1140,95,Timor-Leste,LCU
+Ethiopia,940,78,Ethiopia,ETB
+Afghanistan,390,33,Afghanistan,AFN
