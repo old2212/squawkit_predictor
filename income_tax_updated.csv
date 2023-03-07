@@ -1,0 +1,157 @@
+,Country,Income_tax,ISO
+0,Afghanistan,20.0,Afghanistan
+1,Albania,23.0,Albania
+2,Algeria,35.0,Algeria
+3,Angola,25.0,Angola
+4,Argentina,35.0,Argentina
+5,Armenia,21.0,Armenia
+6,Aruba,52.0,Aruba
+7,Australia,45.0,Australia
+8,Austria,55.0,Austria
+9,Azerbaijan,25.0,Azerbaijan
+10,Bahamas,0.0,Bahamas
+11,Bahrain,0.0,Bahrain
+12,Bangladesh,25.0,Bangladesh
+13,Barbados,28.5,Barbados
+14,Belarus,13.0,Belarus
+15,Belgium,50.0,Belgium
+16,Bermuda,0.0,Bermuda
+17,Bolivia,13.0,"Bolivia, Plurinational State of"
+18,Bosnia and Herzegovina,10.0,Bosnia and Herzegovina
+19,Botswana,25.0,Botswana
+20,Brazil,27.5,Brazil
+21,Brunei,0.0,Brunei Darussalam
+22,Bulgaria,10.0,Bulgaria
+23,Cambodia,20.0,Cambodia
+24,Cameroon,38.5,Cameroon
+25,Canada,33.0,Canada
+26,Cayman Islands,0.0,Cayman Islands
+27,Chad,30.0,Chad
+28,Chile,40.0,Chile
+29,China,45.0,China
+30,Colombia,39.0,Colombia
+31,Congo,40.0,Congo
+32,Costa Rica,25.0,Costa Rica
+33,Croatia,30.0,Croatia
+34,Cyprus,35.0,Cyprus
+35,Czech Republic,23.0,Czechia
+36,Denmark,56.0,Denmark
+37,Dominican Republic,25.0,Dominican Republic
+38,Ecuador,37.0,Ecuador
+39,Egypt,25.0,Egypt
+40,El Salvador,30.0,El Salvador
+41,Equatorial Guinea,35.0,Equatorial Guinea
+42,Estonia,20.0,Estonia
+43,Ethiopia,35.0,Ethiopia
+44,Euro area,42.9,Euro area
+45,European Union,37.8,European Union
+46,Fiji,20.0,Fiji
+47,Finland,56.95,Finland
+48,France,45.0,France
+49,Gabon,35.0,Gabon
+50,Gambia,30.0,Gambia
+51,Georgia,20.0,Georgia
+52,Germany,45.0,Germany
+53,Ghana,30.0,Ghana
+54,Greece,44.0,Greece
+55,Guatemala,7.0,Guatemala
+56,Guinea,40.0,Guinea
+57,Honduras,25.0,Honduras
+58,Hong Kong,15.0,Hong Kong
+59,Hungary,15.0,Hungary
+60,Iceland,46.25,Iceland
+61,India,42.74,India
+62,Indonesia,35.0,Indonesia
+63,Iraq,15.0,Iraq
+64,Ireland,40.0,Ireland
+65,Isle of Man,20.0,Isle of Man
+66,Israel,50.0,Israel
+67,Italy,43.0,Italy
+68,Ivory Coast,60.0,Ivory Coast
+69,Jamaica,30.0,Jamaica
+70,Japan,55.97,Japan
+71,Jordan,30.0,Jordan
+72,Kazakhstan,10.0,Kazakhstan
+73,Kenya,30.0,Kenya
+74,Kosovo,10.0,Serbia
+75,Kuwait,0.0,Kuwait
+76,Laos,25.0,Laos
+77,Latvia,31.0,Latvia
+78,Lebanon,25.0,Lebanon
+79,Lesotho,30.0,Lesotho
+80,Libya,10.0,Libya
+81,Liechtenstein,22.4,Liechtenstein
+82,Lithuania,20.0,Lithuania
+83,Luxembourg,42.0,Luxembourg
+84,Macau,12.0,Macau
+85,Macedonia,10.0,North Macedonia
+86,Madagascar,20.0,Madagascar
+87,Malawi,40.0,Malawi
+88,Malaysia,30.0,Malaysia
+89,Malta,35.0,Malta
+90,Mauritania,40.0,Mauritania
+91,Mauritius,15.0,Mauritius
+92,Mexico,35.0,Mexico
+93,Moldova,12.0,"Moldova, Republic of"
+94,Mongolia,10.0,Mongolia
+95,Montenegro,9.0,Montenegro
+96,Morocco,38.0,Morocco
+97,Mozambique,32.0,Mozambique
+98,Myanmar,25.0,Myanmar
+99,Namibia,37.0,Namibia
+100,Netherlands,49.5,Netherlands
+101,New Zealand,39.0,New Zealand
+102,Nicaragua,30.0,Nicaragua
+103,Nigeria,24.0,Nigeria
+104,Norway,38.2,Norway
+105,Oman,0.0,Oman
+106,Pakistan,35.0,Pakistan
+107,Panama,25.0,Panama
+108,Papua New Guinea,42.0,Papua New Guinea
+109,Peru,30.0,Peru
+110,Philippines,35.0,Philippines
+111,Poland,32.0,Poland
+112,Portugal,48.0,Portugal
+113,Puerto Rico,33.0,Puerto Rico
+114,Qatar,0.0,Qatar
+115,Republic of the Congo,40.0,Congo
+116,Romania,10.0,Romania
+117,Russia,13.0,Russian Federation
+118,Rwanda,30.0,Rwanda
+119,Samoa,27.0,Samoa
+120,Saudi Arabia,0.0,Saudi Arabia
+121,Senegal,40.0,Senegal
+122,Serbia,10.0,Serbia
+123,Seychelles,15.0,Seychelles
+124,Sierra Leone,15.0,Sierra Leone
+125,Singapore,22.0,Singapore
+126,Slovakia,25.0,Slovakia
+127,Slovenia,45.0,Slovenia
+128,South Africa,45.0,South Africa
+129,South Korea,45.0,"Korea, Republic of"
+130,Spain,47.0,Spain
+131,Sri Lanka,18.0,Sri Lanka
+132,Sudan,15.0,Sudan
+133,Suriname,38.0,Suriname
+134,Swaziland,33.0,Swaziland
+135,Sweden,52.3,Sweden
+136,Switzerland,40.0,Switzerland
+137,Syria,22.0,Syrian Arab Republic
+138,Taiwan,40.0,"Taiwan, Province of China"
+139,Tajikistan,12.0,Tajikistan
+140,Tanzania,30.0,"Tanzania, United Republic of"
+141,Thailand,35.0,Thailand
+142,Trinidad And Tobago,25.0,Trinidad and Tobago
+143,Tunisia,35.0,Tunisia
+144,Turkey,40.0,Turkey
+145,Uganda,40.0,Uganda
+146,Ukraine,18.0,Ukraine
+147,United Arab Emirates,0.0,United Arab Emirates
+148,United Kingdom,45.0,United Kingdom
+149,United States,37.0,United States
+150,Uruguay,36.0,Uruguay
+151,Uzbekistan,12.0,Uzbekistan
+152,Venezuela,34.0,"Venezuela, Bolivarian Republic of"
+153,Vietnam,35.0,Viet Nam
+154,Zambia,37.5,Zambia
+155,Zimbabwe,41.2,Zimbabwe
