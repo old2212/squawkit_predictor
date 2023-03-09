@@ -1,0 +1,554 @@
+[
+    {
+        "Country": "Monaco",
+        "year_income_gross": 186080,
+        "month_income_gross": 15507,
+        "ISO": "Monaco",
+        "Currency": "EUR",
+        "XR": 0.94618
+    },
+    {
+        "Country": "Bermuda",
+        "year_income_gross": 122470,
+        "month_income_gross": 10206,
+        "ISO": "Bermuda",
+        "Currency": "BMD",
+        "XR": 1.0
+    },
+    {
+        "Country": "Switzerland",
+        "year_income_gross": 90600,
+        "month_income_gross": 7550,
+        "ISO": "Switzerland",
+        "Currency": "CHF",
+        "XR": 0.938101
+    },
+    {
+        "Country": "Luxembourg",
+        "year_income_gross": 88190,
+        "month_income_gross": 7349,
+        "ISO": "Luxembourg",
+        "Currency": "EUR",
+        "XR": 0.94618
+    },
+    {
+        "Country": "Norway",
+        "year_income_gross": 83880,
+        "month_income_gross": 6990,
+        "ISO": "Norway",
+        "Currency": "NOK",
+        "XR": 10.634103
+    },
+    {
+        "Country": "Ireland",
+        "year_income_gross": 76110,
+        "month_income_gross": 6343,
+        "ISO": "Ireland",
+        "Currency": "EUR",
+        "XR": 0.94618
+    },
+    {
+        "Country": "United States",
+        "year_income_gross": 70930,
+        "month_income_gross": 5911,
+        "ISO": "United States",
+        "Currency": "USD",
+        "XR": 1.0
+    },
+    {
+        "Country": "Denmark",
+        "year_income_gross": 68300,
+        "month_income_gross": 5692,
+        "ISO": "Denmark",
+        "Currency": "DKK",
+        "XR": 7.04178
+    },
+    {
+        "Country": "Singapore",
+        "year_income_gross": 64010,
+        "month_income_gross": 5334,
+        "ISO": "Singapore",
+        "Currency": "SGD",
+        "XR": 1.351625
+    },
+    {
+        "Country": "Iceland",
+        "year_income_gross": 63460,
+        "month_income_gross": 5288,
+        "ISO": "Iceland",
+        "Currency": "ISK",
+        "XR": 141.879811
+    },
+    {
+        "Country": "Qatar",
+        "year_income_gross": 62310,
+        "month_income_gross": 5193,
+        "ISO": "Qatar",
+        "Currency": "QAR",
+        "XR": 3.640992
+    },
+    {
+        "Country": "Sweden",
+        "year_income_gross": 59540,
+        "month_income_gross": 4962,
+        "ISO": "Sweden",
+        "Currency": "SEK",
+        "XR": 10.712451
+    },
+    {
+        "Country": "Australia",
+        "year_income_gross": 57170,
+        "month_income_gross": 4764,
+        "ISO": "Australia",
+        "Currency": "AUD",
+        "XR": 1.510791
+    },
+    {
+        "Country": "Netherlands",
+        "year_income_gross": 55200,
+        "month_income_gross": 4600,
+        "ISO": "Netherlands",
+        "Currency": "EUR",
+        "XR": 0.94618
+    },
+    {
+        "Country": "Hong Kong",
+        "year_income_gross": 54460,
+        "month_income_gross": 4538,
+        "ISO": "Hong Kong",
+        "Currency": "HKD",
+        "XR": 7.849895
+    },
+    {
+        "Country": "Finland",
+        "year_income_gross": 53510,
+        "month_income_gross": 4459,
+        "ISO": "Finland",
+        "Currency": "EUR",
+        "XR": 0.94618
+    },
+    {
+        "Country": "Austria",
+        "year_income_gross": 52760,
+        "month_income_gross": 4397,
+        "ISO": "Austria",
+        "Currency": "EUR",
+        "XR": 0.94618
+    },
+    {
+        "Country": "Germany",
+        "year_income_gross": 51660,
+        "month_income_gross": 4305,
+        "ISO": "Germany",
+        "Currency": "EUR",
+        "XR": 0.94618
+    },
+    {
+        "Country": "Belgium",
+        "year_income_gross": 50490,
+        "month_income_gross": 4208,
+        "ISO": "Belgium",
+        "Currency": "EUR",
+        "XR": 0.94618
+    },
+    {
+        "Country": "Israel",
+        "year_income_gross": 49290,
+        "month_income_gross": 4108,
+        "ISO": "Israel",
+        "Currency": "ILS",
+        "XR": 3.59553
+    },
+    {
+        "Country": "Canada",
+        "year_income_gross": 48310,
+        "month_income_gross": 4026,
+        "ISO": "Canada",
+        "Currency": "CAD",
+        "XR": 1.37817
+    },
+    {
+        "Country": "Macao",
+        "year_income_gross": 46450,
+        "month_income_gross": 3871,
+        "ISO": "Macao",
+        "Currency": "MOP",
+        "XR": 8.089109
+    },
+    {
+        "Country": "New Zealand",
+        "year_income_gross": 45230,
+        "month_income_gross": 3769,
+        "ISO": "New Zealand",
+        "Currency": "NZD",
+        "XR": 1.63128
+    },
+    {
+        "Country": "United Kingdom",
+        "year_income_gross": 44480,
+        "month_income_gross": 3707,
+        "ISO": "United Kingdom",
+        "Currency": "GBP",
+        "XR": 0.839826
+    },
+    {
+        "Country": "France",
+        "year_income_gross": 44160,
+        "month_income_gross": 3680,
+        "ISO": "France",
+        "Currency": "EUR",
+        "XR": 0.94618
+    },
+    {
+        "Country": "Japan",
+        "year_income_gross": 42650,
+        "month_income_gross": 3554,
+        "ISO": "Japan",
+        "Currency": "JPY",
+        "XR": 136.3575
+    },
+    {
+        "Country": "United Arab Emirates",
+        "year_income_gross": 41770,
+        "month_income_gross": 3481,
+        "ISO": "United Arab Emirates",
+        "Currency": "AED",
+        "XR": 3.67264
+    },
+    {
+        "Country": "Italy",
+        "year_income_gross": 35990,
+        "month_income_gross": 2999,
+        "ISO": "Italy",
+        "Currency": "EUR",
+        "XR": 0.94618
+    },
+    {
+        "Country": "South Korea",
+        "year_income_gross": 35110,
+        "month_income_gross": 2926,
+        "ISO": "Korea, Republic of",
+        "Currency": "KRW",
+        "XR": 1319.980134
+    },
+    {
+        "Country": "Brunei",
+        "year_income_gross": 30320,
+        "month_income_gross": 2527,
+        "ISO": "Brunei Darussalam",
+        "Currency": "BND",
+        "XR": 1.352052
+    },
+    {
+        "Country": "Spain",
+        "year_income_gross": 29690,
+        "month_income_gross": 2474,
+        "ISO": "Spain",
+        "Currency": "EUR",
+        "XR": 0.94618
+    },
+    {
+        "Country": "Portugal",
+        "year_income_gross": 23890,
+        "month_income_gross": 1991,
+        "ISO": "Portugal",
+        "Currency": "EUR",
+        "XR": 0.94618
+    },
+    {
+        "Country": "Bahrain",
+        "year_income_gross": 22950,
+        "month_income_gross": 1913,
+        "ISO": "Bahrain",
+        "Currency": "BHD",
+        "XR": 0.377039
+    },
+    {
+        "Country": "Saudi Arabia",
+        "year_income_gross": 21540,
+        "month_income_gross": 1795,
+        "ISO": "Saudi Arabia",
+        "Currency": "SAR",
+        "XR": 3.754204
+    },
+    {
+        "Country": "Greece",
+        "year_income_gross": 20000,
+        "month_income_gross": 1667,
+        "ISO": "Greece",
+        "Currency": "EUR",
+        "XR": 0.94618
+    },
+    {
+        "Country": "Hungary",
+        "year_income_gross": 17740,
+        "month_income_gross": 1478,
+        "ISO": "Hungary",
+        "Currency": "HUF",
+        "XR": 358.868013
+    },
+    {
+        "Country": "Croatia",
+        "year_income_gross": 17630,
+        "month_income_gross": 1469,
+        "ISO": "Croatia",
+        "Currency": "HRK",
+        "XR": 7.054794
+    },
+    {
+        "Country": "Poland",
+        "year_income_gross": 16850,
+        "month_income_gross": 1404,
+        "ISO": "Poland",
+        "Currency": "PLN",
+        "XR": 4.428489
+    },
+    {
+        "Country": "Romania",
+        "year_income_gross": 14160,
+        "month_income_gross": 1180,
+        "ISO": "Romania",
+        "Currency": "RON",
+        "XR": 4.649101
+    },
+    {
+        "Country": "Costa Rica",
+        "year_income_gross": 12310,
+        "month_income_gross": 1026,
+        "ISO": "Costa Rica",
+        "Currency": "CRC",
+        "XR": 549.551425
+    },
+    {
+        "Country": "China",
+        "year_income_gross": 11880,
+        "month_income_gross": 990,
+        "ISO": "China",
+        "Currency": "CNY",
+        "XR": 6.9607
+    },
+    {
+        "Country": "Russia",
+        "year_income_gross": 11610,
+        "month_income_gross": 968,
+        "ISO": "Russian Federation",
+        "Currency": "RUB",
+        "XR": 75.820211
+    },
+    {
+        "Country": "Malaysia",
+        "year_income_gross": 10710,
+        "month_income_gross": 893,
+        "ISO": "Malaysia",
+        "Currency": "MYR",
+        "XR": 4.520947
+    },
+    {
+        "Country": "Argentina",
+        "year_income_gross": 9960,
+        "month_income_gross": 830,
+        "ISO": "Argentina",
+        "Currency": "ARS",
+        "XR": 200.388455
+    },
+    {
+        "Country": "Turkey",
+        "year_income_gross": 9900,
+        "month_income_gross": 825,
+        "ISO": "Turkey",
+        "Currency": "TRY",
+        "XR": 18.951403
+    },
+    {
+        "Country": "Mexico",
+        "year_income_gross": 9590,
+        "month_income_gross": 799,
+        "ISO": "Mexico",
+        "Currency": "MXN",
+        "XR": 17.94162
+    },
+    {
+        "Country": "Brazil",
+        "year_income_gross": 7740,
+        "month_income_gross": 645,
+        "ISO": "Brazil",
+        "Currency": "BRL",
+        "XR": 5.132995
+    },
+    {
+        "Country": "Thailand",
+        "year_income_gross": 7090,
+        "month_income_gross": 591,
+        "ISO": "Thailand",
+        "Currency": "THB",
+        "XR": 35.005497
+    },
+    {
+        "Country": "South Africa",
+        "year_income_gross": 6530,
+        "month_income_gross": 544,
+        "ISO": "South Africa",
+        "Currency": "ZAR",
+        "XR": 18.640499
+    },
+    {
+        "Country": "Colombia",
+        "year_income_gross": 6190,
+        "month_income_gross": 516,
+        "ISO": "Colombia",
+        "Currency": "COP",
+        "XR": 4765.86
+    },
+    {
+        "Country": "Ecuador",
+        "year_income_gross": 5960,
+        "month_income_gross": 497,
+        "ISO": "Ecuador",
+        "Currency": "USD",
+        "XR": 1.0
+    },
+    {
+        "Country": "Indonesia",
+        "year_income_gross": 4180,
+        "month_income_gross": 348,
+        "ISO": "Indonesia",
+        "Currency": "IDR",
+        "XR": 15450.5
+    },
+    {
+        "Country": "Ukraine",
+        "year_income_gross": 4120,
+        "month_income_gross": 343,
+        "ISO": "Ukraine",
+        "Currency": "UAH",
+        "XR": 36.946503
+    },
+    {
+        "Country": "Sri Lanka",
+        "year_income_gross": 4030,
+        "month_income_gross": 336,
+        "ISO": "Sri Lanka",
+        "Currency": "LKR",
+        "XR": 325.134854
+    },
+    {
+        "Country": "Morocco",
+        "year_income_gross": 3620,
+        "month_income_gross": 302,
+        "ISO": "Morocco",
+        "Currency": "MAD",
+        "XR": 10.472986
+    },
+    {
+        "Country": "Vietnam",
+        "year_income_gross": 3590,
+        "month_income_gross": 299,
+        "ISO": "Viet Nam",
+        "Currency": "VND",
+        "XR": 23695.0
+    },
+    {
+        "Country": "Philippines",
+        "year_income_gross": 3550,
+        "month_income_gross": 296,
+        "ISO": "Philippines",
+        "Currency": "PHP",
+        "XR": 55.12404
+    },
+    {
+        "Country": "Iran",
+        "year_income_gross": 3530,
+        "month_income_gross": 294,
+        "ISO": "Iran, Islamic Republic of",
+        "Currency": "IRR",
+        "XR": 42249.999759
+    },
+    {
+        "Country": "Egypt",
+        "year_income_gross": 3350,
+        "month_income_gross": 279,
+        "ISO": "Egypt",
+        "Currency": "EGP",
+        "XR": 30.953372
+    },
+    {
+        "Country": "Bangladesh",
+        "year_income_gross": 2570,
+        "month_income_gross": 214,
+        "ISO": "Bangladesh",
+        "Currency": "BDT",
+        "XR": 105.461394
+    },
+    {
+        "Country": "India",
+        "year_income_gross": 2150,
+        "month_income_gross": 179,
+        "ISO": "India",
+        "Currency": "INR",
+        "XR": 82.04185
+    },
+    {
+        "Country": "Nigeria",
+        "year_income_gross": 2080,
+        "month_income_gross": 173,
+        "ISO": "Nigeria",
+        "Currency": "NGN",
+        "XR": 460.489834
+    },
+    {
+        "Country": "Cameroon",
+        "year_income_gross": 1590,
+        "month_income_gross": 133,
+        "ISO": "Cameroon",
+        "Currency": "XAF",
+        "XR": 620.806481
+    },
+    {
+        "Country": "Cambodia",
+        "year_income_gross": 1580,
+        "month_income_gross": 132,
+        "ISO": "Cambodia",
+        "Currency": "KHR",
+        "XR": 4049.437394
+    },
+    {
+        "Country": "Pakistan",
+        "year_income_gross": 1470,
+        "month_income_gross": 123,
+        "ISO": "Pakistan",
+        "Currency": "PKR",
+        "XR": 276.307586
+    },
+    {
+        "Country": "Nepal",
+        "year_income_gross": 1220,
+        "month_income_gross": 102,
+        "ISO": "Nepal",
+        "Currency": "NPR",
+        "XR": 131.193928
+    },
+    {
+        "Country": "Timor-Leste",
+        "year_income_gross": 1140,
+        "month_income_gross": 95,
+        "ISO": "Timor-Leste",
+        "Currency": "LCU",
+        "XR": null
+    },
+    {
+        "Country": "Ethiopia",
+        "year_income_gross": 940,
+        "month_income_gross": 78,
+        "ISO": "Ethiopia",
+        "Currency": "ETB",
+        "XR": 53.84001
+    },
+    {
+        "Country": "Afghanistan",
+        "year_income_gross": 390,
+        "month_income_gross": 33,
+        "ISO": "Afghanistan",
+        "Currency": "AFN",
+        "XR": 88.048529
+    }
+]

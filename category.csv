@@ -1,100 +1,100 @@
 ,Airline,Category
 0,Eurowings GmbH,Major/National/Low Cost
-1,Greater Bay Airlines,Major/National/Low Cost
-2,Eurowings Europe Ltd,Major/National/Low Cost
-3,Avion Express,Charter
-4,Corendon Airlines,Major/National/Low Cost
-5,Hifly,Charter
-6,Air Japan,Legacy
-7,Air Hamburg Luftverkehrsgesellschaft mbH,Fractional/Corporate
-8,Aerowest,Fractional/Corporate
-9,Austrian,Major/National/Low Cost
-10,Heston Airlines,Charter
-11,HOP,Regional
-12,Aegean Airlines,Major/National/Low Cost
-13,Cargo Air,Cargo
-14,DC Aviation,Fractional/Corporate
-15,Virgin Atlantic Airways,Major/National/Low Cost
-16,Loganair,Regional
-17,KLM (Royal Dutch Airlines),Legacy
-18,Private Wings Flugcharter GmbH,Charter
-19,Volotea,Major/National/Low Cost
-20,Global Jet,Fractional/Corporate
-21,European Air Transport Leipzig GmbH,Cargo
-22,Wizz Air UK,Major/National/Low Cost
-23,Eurowings Discover,Major/National/Low Cost
-24,Air Serbia,Major/National/Low Cost
-25,Tassili Airlines,Charter
-26,Air Nostrum,Major/National/Low Cost
-27,Jet2.com,Major/National/Low Cost
-28,Trade Air,Charter
-29,Flexjet Europe,Fractional/Corporate
-30,CityJet,Regional
-31,DHL Air UK,Cargo
-32,SundAir,Charter
-33,Plus Ultra,Charter
-34,Brussels Airlines,Major/National/Low Cost
-35,Nicholas Air,Fractional/Corporate
-36,Air Dolomiti,Regional
-37,DAS Private Jets GmbH,Fractional/Corporate
-38,Excellent Air GmbH,Fractional/Corporate
-39,Zimex Aviation,Regional
-40,PADAVIATION,Fractional/Corporate
-41,Air Austral,Legacy
-42,Buzz,Charter
-43,Jet Time,Charter
-44,Lufthansa CityLine,Regional
-45,Luxair,Regional
-46,Swiss International Air Lines,Legacy
-47,Atlantic Airways,Regional
-48,Exxaero,Fractional/Corporate
-49,BA Euroflyer,Major/National/Low Cost
-50,Panaviatic AS,Fractional/Corporate
-51,TUI fly (TUI Airlines Netherlands),Charter
-52,Flybe (PAS Contract),Regional
-53,Flybe (Q400) (Closed),Major/National/Low Cost
-54,Vueling,Major/National/Low Cost
-55,CMA CGM Air Cargo,Cargo
-56,ECAir,Major/National/Low Cost
-57,easyJet (UK Contract),Major/National/Low Cost
-58,Trans Maldivian Airways,Regional
-59,TUI Airways,Charter
-60,Sprintair,Cargo
-61,SmartLynx Airlines,Major/National/Low Cost
-62,Condor,Charter
-63,Air Senegal,Major/National/Low Cost
-64,Iberia L.A.E,Major/National/Low Cost
-65,EuroAtlantic Airways,Charter
-66,Blue Islands,Regional
-67,Air Baltic,Major/National/Low Cost
-68,Platoon Aviation GmbH,Fractional/Corporate
+1,DC Aviation,Fractional/Corporate
+2,ASL Airlines Belgium,Cargo
+3,Greater Bay Airlines,Major/National/Low Cost
+4,Eurowings Europe Ltd,Major/National/Low Cost
+5,Avion Express,Charter
+6,Corendon Airlines,Major/National/Low Cost
+7,Hifly,Charter
+8,Air Japan,Legacy
+9,Air Hamburg Luftverkehrsgesellschaft mbH,Fractional/Corporate
+10,Aerowest,Fractional/Corporate
+11,Austrian,Major/National/Low Cost
+12,Heston Airlines,Charter
+13,HOP,Regional
+14,Aegean Airlines,Major/National/Low Cost
+15,Cargo Air,Cargo
+16,Virgin Atlantic Airways,Major/National/Low Cost
+17,Loganair,Regional
+18,KLM (Royal Dutch Airlines),Legacy
+19,Private Wings Flugcharter GmbH,Charter
+20,Volotea,Major/National/Low Cost
+21,Global Jet,Fractional/Corporate
+22,European Air Transport Leipzig GmbH,Cargo
+23,Wizz Air UK,Major/National/Low Cost
+24,Eurowings Discover,Major/National/Low Cost
+25,Air Serbia,Major/National/Low Cost
+26,Tassili Airlines,Charter
+27,Air Nostrum,Major/National/Low Cost
+28,Jet2.com,Major/National/Low Cost
+29,Trade Air,Charter
+30,Flexjet Europe,Fractional/Corporate
+31,CityJet,Regional
+32,DHL Air UK,Cargo
+33,SundAir,Charter
+34,Plus Ultra,Charter
+35,Brussels Airlines,Major/National/Low Cost
+36,Nicholas Air,Fractional/Corporate
+37,Air Dolomiti,Regional
+38,DAS Private Jets GmbH,Fractional/Corporate
+39,Excellent Air GmbH,Fractional/Corporate
+40,Zimex Aviation,Regional
+41,PADAVIATION,Fractional/Corporate
+42,Air Austral,Legacy
+43,Buzz,Charter
+44,Jet Time,Charter
+45,Lufthansa CityLine,Regional
+46,Luxair,Regional
+47,Swiss International Air Lines,Legacy
+48,Atlantic Airways,Regional
+49,Exxaero,Fractional/Corporate
+50,BA Euroflyer,Major/National/Low Cost
+51,Panaviatic AS,Fractional/Corporate
+52,TUI fly (TUI Airlines Netherlands),Charter
+53,Flybe (PAS Contract),Regional
+54,Flybe (Q400) (Closed),Major/National/Low Cost
+55,Vueling,Major/National/Low Cost
+56,CMA CGM Air Cargo,Cargo
+57,ECAir,Major/National/Low Cost
+58,easyJet (UK Contract),Major/National/Low Cost
+59,Trans Maldivian Airways,Regional
+60,TUI Airways,Charter
+61,Sprintair,Cargo
+62,SmartLynx Airlines,Major/National/Low Cost
+63,Condor,Charter
+64,Air Senegal,Major/National/Low Cost
+65,Iberia L.A.E,Major/National/Low Cost
+66,EuroAtlantic Airways,Charter
+67,Blue Islands,Regional
+68,Air Baltic,Major/National/Low Cost
 69,Platoon Aviation GmbH,Fractional/Corporate
-70,Chair Airlines,Major/National/Low Cost
-71,European Cargo,Cargo
-72,German Airways,Charter
-73,French Bee,Major/National/Low Cost
-74,Air Macau,Regional
-75,Bamboo Airways,Major/National/Low Cost
-76,DHL Bahrain,Cargo
-77,Lufthansa Cargo,Cargo
-78,Air Atlanta Icelandic,Charter
-79, e-aviation,Fractional/Corporate
-80,DAT LT,Major/National/Low Cost
-81,Challenge Airlines (BE),Cargo
-82,CargoLogicAir (Closed),Cargo
-83, Ryanair,Major/National/Low Cost
-84,Cargolux,Cargo
-85,FLY7,Fractional/Corporate
-86,Silver Cloud Air,Fractional/Corporate
-87,SunExpress,Major/National/Low Cost
-88,Air France,Legacy
-89,Aerologic,Cargo
-90,Malta Air,Major/National/Low Cost
-91,DHL Air (Austria) GmbH,Cargo
-92,Portugalia Airlines,Regional
+70,Platoon Aviation GmbH,Fractional/Corporate
+71,Chair Airlines,Major/National/Low Cost
+72,European Cargo,Cargo
+73,German Airways,Charter
+74,French Bee,Major/National/Low Cost
+75,Air Macau,Regional
+76,Bamboo Airways,Major/National/Low Cost
+77,DHL Bahrain,Cargo
+78,Lufthansa Cargo,Cargo
+79,Air Atlanta Icelandic,Charter
+80, e-aviation,Fractional/Corporate
+81,DAT LT,Major/National/Low Cost
+82,Challenge Airlines (BE),Cargo
+83,CargoLogicAir (Closed),Cargo
+84, Ryanair,Major/National/Low Cost
+85,Cargolux,Cargo
+86,FLY7,Fractional/Corporate
+87,Silver Cloud Air,Fractional/Corporate
+88,SunExpress,Major/National/Low Cost
+89,Air France,Legacy
+90,Aerologic,Cargo
+91,Malta Air,Major/National/Low Cost
+92,DHL Air (Austria) GmbH,Cargo
 93,Portugalia Airlines,Regional
-94,Businesswings,Cargo
-95,ASL Airlines Belgium,Cargo
+94,Portugalia Airlines,Regional
+95,Businesswings,Cargo
 96,Helvetic Airways,Major/National/Low Cost
 97,Level France,Major/National/Low Cost
 98,Sky Express,Regional
