@@ -1,93 +1,93 @@
 Airline,Top/Base,Category,Country,Income,Index,new_salary_USD_GROSS_2023
-British Airways Mainline,CaptMax,Legacy,United Kingdom,44480.0,61.5,220676.21630166468
-British Airways Mainline,CaptMin,Legacy,United Kingdom,44480.0,61.5,106857.0108345392
-Cargo Air,CaptMax,Cargo,Bulgaria,,40.5,68294.83758369986
-Cargo Air,CaptMin,Cargo,Bulgaria,,40.5,59757.98288573739
-DHL Air UK,CaptMax,Cargo,United Kingdom,44480.0,61.5,209275.63019079002
-DHL Air UK,CaptMin,Cargo,United Kingdom,44480.0,61.5,147921.25199119616
-LOT Polish Airlines,CaptMax,Major/National/Low Cost,Poland,16850.0,38.6,66845.12707323414
-LOT Polish Airlines,CaptMin,Major/National/Low Cost,Poland,16850.0,38.6,60223.54674096944
-Eurowings GmbH,CaptMax,Major/National/Low Cost,Germany,51660.0,62.9,202851.40907042133
-Eurowings GmbH,CaptMin,Major/National/Low Cost,Germany,51660.0,62.9,120139.08265544848
-DC Aviation,CaptMax,Fractional/Corporate,Germany,51660.0,62.9,123629.02706531304
-DC Aviation,CaptMin,Fractional/Corporate,Germany,51660.0,62.9,102023.12081924365
-ASL Airlines Belgium,CaptMin,Cargo,Belgium,50490.0,65.6,80513.96089151839
-Greater Bay Airlines,CaptMin,Major/National/Low Cost,Hong Kong,54460.0,75.7,122296.49894423725
-Eurowings Europe Ltd,CaptMax,Major/National/Low Cost,Malta,,61.4,77974.54243168309
-Eurowings Europe Ltd,CaptMin,Major/National/Low Cost,Malta,,61.4,50126.32681597801
-Avion Express,CaptMax,Charter,Lithuania,,48.8,70829.13008950227
-Avion Express,CaptMin,Charter,Lithuania,,48.8,64390.118263183875
-Corendon Airlines,CaptMax,Major/National/Low Cost,Turkey,9900.0,28.1,80487.64782897985
-Corendon Airlines,CaptMin,Major/National/Low Cost,Turkey,9900.0,28.1,67609.62417634307
-Hifly,CaptMax,Charter,Portugal,23890.0,45.3,257560.4730527355
-Hifly,CaptMin,Charter,Portugal,23890.0,45.3,236097.1002983409
+British Airways Mainline,CaptMax,Legacy,United Kingdom,44480.0,61.5,218679.2066322842
+British Airways Mainline,CaptMin,Legacy,United Kingdom,44480.0,61.5,105890.00819395576
+Cargo Air,CaptMax,Cargo,Bulgaria,,40.5,67155.4251735838
+Cargo Air,CaptMin,Cargo,Bulgaria,,40.5,58760.997026885816
+DHL Air UK,CaptMax,Cargo,United Kingdom,44480.0,61.5,207381.79013833328
+DHL Air UK,CaptMin,Cargo,United Kingdom,44480.0,61.5,146582.63845375236
+LOT Polish Airlines,CaptMax,Major/National/Low Cost,Poland,16850.0,38.6,65906.49532836344
+LOT Polish Airlines,CaptMin,Major/National/Low Cost,Poland,16850.0,38.6,59377.89448126399
+Eurowings GmbH,CaptMax,Major/National/Low Cost,Germany,51660.0,62.9,199467.09158637866
+Eurowings GmbH,CaptMin,Major/National/Low Cost,Germany,51660.0,62.9,118134.71502590674
+DC Aviation,CaptMax,Fractional/Corporate,Germany,51660.0,62.9,121566.43415679116
+DC Aviation,CaptMin,Fractional/Corporate,Germany,51660.0,62.9,100320.99494717096
+ASL Airlines Belgium,CaptMin,Cargo,Belgium,50490.0,65.6,79170.68796675354
+Greater Bay Airlines,CaptMin,Major/National/Low Cost,Hong Kong,54460.0,75.7,122320.26247889656
+Eurowings Europe Ltd,CaptMax,Major/National/Low Cost,Malta,,61.4,76526.89629413745
+Eurowings Europe Ltd,CaptMin,Major/National/Low Cost,Malta,,61.4,49195.700214762895
+Avion Express,CaptMax,Charter,Lithuania,,48.8,69647.4362356616
+Avion Express,CaptMin,Charter,Lithuania,,48.8,63315.85112332873
+Corendon Airlines,CaptMax,Major/National/Low Cost,Turkey,9900.0,28.1,79144.81390416091
+Corendon Airlines,CaptMin,Major/National/Low Cost,Turkey,9900.0,28.1,66481.64367949516
+Hifly,CaptMax,Charter,Portugal,23890.0,45.3,253263.4044933149
+Hifly,CaptMin,Charter,Portugal,23890.0,45.3,232158.12078553866
 Air Japan,CaptMax,Legacy,Japan,42650.0,64.6,193080.0
 Air Japan,CaptMin,Legacy,Japan,42650.0,64.6,131160.0
-Air Hamburg Luftverkehrsgesellschaft mbH,CaptMax,Fractional/Corporate,Germany,51660.0,62.9,115902.21287373098
-Air Hamburg Luftverkehrsgesellschaft mbH,CaptMin,Fractional/Corporate,Germany,51660.0,62.9,77268.14191582066
-Aerowest,CaptMax,Fractional/Corporate,Germany,51660.0,62.9,119587.5240285721
-Aerowest,CaptMin,Fractional/Corporate,Germany,51660.0,62.9,72023.97186538174
-Austrian,CaptMax,Major/National/Low Cost,Austria,52760.0,66.0,189261.87461097637
-Austrian,CaptMin,Major/National/Low Cost,Austria,52760.0,66.0,119121.71878689017
-Heston Airlines,CaptMax,Charter,Lithuania,,48.8,115902.21287373098
-Heston Airlines,CaptMin,Charter,Lithuania,,48.8,51512.0946105471
-HOP,CaptMax,Regional,France,44160.0,68.7,156598.8199561984
-HOP,CaptMin,Regional,France,44160.0,68.7,81459.97866154346
-Aegean Airlines,CaptMax,Major/National/Low Cost,Greece,20000.0,54.6,103057.33825647124
-Aegean Airlines,CaptMin,Major/National/Low Cost,Greece,20000.0,54.6,65956.6964841416
-Virgin Atlantic Airways,CaptMax,Major/National/Low Cost,United Kingdom,44480.0,61.5,207860.2089083989
-Virgin Atlantic Airways,CaptMin,Major/National/Low Cost,United Kingdom,44480.0,61.5,163248.90256210708
-Loganair,CaptMax,Regional,United Kingdom,44480.0,61.5,97279.8132227586
-Loganair,CaptMin,Regional,United Kingdom,44480.0,61.5,60799.88326422413
+Air Hamburg Luftverkehrsgesellschaft mbH,CaptMax,Fractional/Corporate,Germany,51660.0,62.9,113968.5320219917
+Air Hamburg Luftverkehrsgesellschaft mbH,CaptMin,Fractional/Corporate,Germany,51660.0,62.9,75979.02134799448
+Aerowest,CaptMax,Fractional/Corporate,Germany,51660.0,62.9,117592.35845245935
+Aerowest,CaptMin,Fractional/Corporate,Germany,51660.0,62.9,70822.34359781773
+Austrian,CaptMax,Major/National/Low Cost,Austria,52760.0,66.0,186104.28120680014
+Austrian,CaptMin,Major/National/Low Cost,Austria,52760.0,66.0,117134.32457815815
+Heston Airlines,CaptMax,Charter,Lithuania,,48.8,113968.5320219917
+Heston Airlines,CaptMin,Charter,Lithuania,,48.8,50652.680898662984
+HOP,CaptMax,Regional,France,44160.0,68.7,153986.1680313886
+HOP,CaptMin,Regional,France,44160.0,68.7,80100.92263478301
+Aegean Airlines,CaptMax,Major/National/Low Cost,Greece,20000.0,54.6,101337.95778325405
+Aegean Airlines,CaptMin,Major/National/Low Cost,Greece,20000.0,54.6,64856.2929812826
+Virgin Atlantic Airways,CaptMax,Major/National/Low Cost,United Kingdom,44480.0,61.5,205979.17771244037
+Virgin Atlantic Airways,CaptMin,Major/National/Low Cost,United Kingdom,44480.0,61.5,161771.58143346026
+Loganair,CaptMax,Regional,United Kingdom,44480.0,61.5,96399.47944281102
+Loganair,CaptMin,Regional,United Kingdom,44480.0,61.5,60249.67465175688
 KLM (Royal Dutch Airlines),CaptMax,Legacy,,,,
 KLM (Royal Dutch Airlines),CaptMin,Legacy,,,,
-Private Wings Flugcharter GmbH,CaptMax,Charter,Germany,51660.0,62.9,77268.14191582066
-Private Wings Flugcharter GmbH,CaptMin,Charter,Germany,51660.0,62.9,73404.73482002963
-Volotea,CaptMax,Major/National/Low Cost,Spain,29690.0,50.6,111266.12435878174
-Volotea,CaptMin,Major/National/Low Cost,Spain,29690.0,50.6,60526.711167392845
-Global Jet,CaptMax,Fractional/Corporate,Switzerland,90600.0,114.2,196935.96887773537
-Global Jet,CaptMin,Fractional/Corporate,Switzerland,90600.0,114.2,72961.76449831133
-European Air Transport Leipzig GmbH,CaptMax,Cargo,Germany,51660.0,62.9,145676.2035586272
-European Air Transport Leipzig GmbH,CaptMin,Cargo,Germany,51660.0,62.9,114266.70386984611
-Wizz Air UK,CaptMax,Major/National/Low Cost,United Kingdom,44480.0,61.5,206719.60309836204
-Wizz Air UK,CaptMin,Major/National/Low Cost,United Kingdom,44480.0,61.5,145919.7198341379
-Eurowings Discover,CaptMax,Major/National/Low Cost,Germany,51660.0,62.9,161619.19684059152
-Eurowings Discover,CaptMin,Major/National/Low Cost,Germany,51660.0,62.9,107531.49749951708
-Air Serbia,CaptMax,Major/National/Low Cost,Serbia,,37.2,89805.48637543323
-Air Serbia,CaptMin,Major/National/Low Cost,Serbia,,37.2,71844.38910034658
+Private Wings Flugcharter GmbH,CaptMax,Charter,Germany,51660.0,62.9,75979.02134799448
+Private Wings Flugcharter GmbH,CaptMin,Charter,Germany,51660.0,62.9,72180.07028059475
+Volotea,CaptMax,Major/National/Low Cost,Spain,29690.0,50.6,109409.79074111204
+Volotea,CaptMin,Major/National/Low Cost,Spain,29690.0,50.6,59516.90005592901
+Global Jet,CaptMax,Fractional/Corporate,Switzerland,90600.0,114.2,193650.34298159764
+Global Jet,CaptMin,Fractional/Corporate,Switzerland,90600.0,114.2,71744.49035469166
+European Air Transport Leipzig GmbH,CaptMax,Cargo,Germany,51660.0,62.9,143245.7815814189
+European Air Transport Leipzig GmbH,CaptMin,Cargo,Germany,51660.0,62.9,112360.30940345916
+Wizz Air UK,CaptMax,Major/National/Low Cost,United Kingdom,44480.0,61.5,204848.8938159734
+Wizz Air UK,CaptMin,Major/National/Low Cost,United Kingdom,44480.0,61.5,144599.2191642165
+Eurowings Discover,CaptMax,Major/National/Low Cost,Germany,51660.0,62.9,158922.7863195551
+Eurowings Discover,CaptMin,Major/National/Low Cost,Germany,51660.0,62.9,105737.47137595898
+Air Serbia,CaptMax,Major/National/Low Cost,Serbia,,37.2,88307.196178209
+Air Serbia,CaptMin,Major/National/Low Cost,Serbia,,37.2,70645.7569425672
 Tassili Airlines,CaptMax,Charter,Algeria,,27.6,108000.0
 Tassili Airlines,CaptMin,Charter,Algeria,,27.6,60000.0
-Air Nostrum,CaptMax,Major/National/Low Cost,Spain,29690.0,50.6,95526.373066064
-Air Nostrum,CaptMin,Major/National/Low Cost,Spain,29690.0,50.6,59784.47737377632
-Jet2.com,CaptMax,Major/National/Low Cost,United Kingdom,44480.0,61.5,158079.69648698275
-Jet2.com,CaptMin,Major/National/Low Cost,United Kingdom,44480.0,61.5,158079.69648698275
-Trade Air,CaptMin,Charter,Croatia,17630.0,46.7,35665.686505977545
-Flexjet Europe,CaptMax,Fractional/Corporate,Malta,,61.4,150243.60928076238
-Flexjet Europe,CaptMin,Fractional/Corporate,Malta,,61.4,125674.85612242708
-CityJet,CaptMax,Regional,Ireland,76110.0,70.5,121072.52965195972
-CityJet,CaptMin,Regional,Ireland,76110.0,70.5,121072.52965195972
-SundAir,CaptMax,Charter,Germany,51660.0,62.9,143687.70629752424
-SundAir,CaptMin,Charter,Germany,51660.0,62.9,82675.16628917732
-Brussels Airlines,CaptMax,Major/National/Low Cost,Belgium,50490.0,65.6,182930.59598976423
-Brussels Airlines,CaptMin,Major/National/Low Cost,Belgium,50490.0,65.6,115709.90162773206
-Air Dolomiti,CaptMax,Regional,Italy,35990.0,61.3,125041.74626000729
-Air Dolomiti,CaptMin,Regional,Italy,35990.0,61.3,116828.4003348286
-Excellent Air GmbH,CaptMax,Fractional/Corporate,Germany,51660.0,62.9,90146.16556845744
-Excellent Air GmbH,CaptMin,Fractional/Corporate,Germany,51660.0,62.9,77268.14191582066
-Zimex Aviation,CaptMax,Regional,Switzerland,90600.0,114.2,65420.36015539482
-Zimex Aviation,CaptMin,Regional,Switzerland,90600.0,114.2,24468.244940009874
-PADAVIATION,CaptMax,Fractional/Corporate,Germany,51660.0,62.9,93156.06748084394
-PADAVIATION,CaptMin,Fractional/Corporate,Germany,51660.0,62.9,78824.36479148334
-Buzz,CaptMin,Charter,Poland,16850.0,38.6,90146.16556845744
-Jet Time,CaptMax,Charter,Denmark,68300.0,78.6,167052.7669685312
-Jet Time,CaptMin,Charter,Denmark,68300.0,78.6,114263.71315669233
-Lufthansa CityLine,CaptMax,Regional,Germany,51660.0,62.9,218784.7438346462
-Lufthansa CityLine,CaptMin,Regional,Germany,51660.0,62.9,167015.08875104634
-Luxair,CaptMax,Regional,Luxembourg,88190.0,73.2,206048.3784421884
-Luxair,CaptMin,Regional,Luxembourg,88190.0,73.2,90146.16556845744
-Swiss International Air Lines,CaptMax,Legacy,Switzerland,90600.0,114.2,239933.74179317697
-Swiss International Air Lines,CaptMin,Legacy,Switzerland,90600.0,114.2,121672.56100412294
-Atlantic Airways,CaptMax,Regional,Iceland,63460.0,83.3,92859.13588461292
-Atlantic Airways,CaptMin,Regional,Iceland,63460.0,83.3,58835.397394346546
-Exxaero,CaptMax,Fractional/Corporate,Netherlands,55200.0,68.6,83707.15374213904
-Exxaero,CaptMin,Fractional/Corporate,Netherlands,55200.0,68.6,64390.118263183875
+Air Nostrum,CaptMax,Major/National/Low Cost,Spain,29690.0,50.6,93932.63715840546
+Air Nostrum,CaptMin,Major/National/Low Cost,Spain,29690.0,50.6,58787.049488125376
+Jet2.com,CaptMax,Major/National/Low Cost,United Kingdom,44480.0,61.5,156649.1540945679
+Jet2.com,CaptMin,Major/National/Low Cost,United Kingdom,44480.0,61.5,156649.1540945679
+Trade Air,CaptMin,Charter,Croatia,17630.0,46.7,35070.649937211776
+Flexjet Europe,CaptMax,Fractional/Corporate,Malta,,61.4,147736.9859544337
+Flexjet Europe,CaptMin,Fractional/Corporate,Malta,,61.4,123578.13116089613
+CityJet,CaptMax,Regional,Ireland,76110.0,70.5,119052.84954412679
+CityJet,CaptMin,Regional,Ireland,76110.0,70.5,119052.84954412679
+SundAir,CaptMax,Charter,Germany,51660.0,62.9,141290.45986530508
+SundAir,CaptMin,Charter,Germany,51660.0,62.9,81295.83640406193
+Brussels Airlines,CaptMax,Major/National/Low Cost,Belgium,50490.0,65.6,179878.63190821538
+Brussels Airlines,CaptMin,Major/National/Low Cost,Belgium,50490.0,65.6,113779.42924427605
+Air Dolomiti,CaptMax,Regional,Italy,35990.0,61.3,122955.58393043699
+Air Dolomiti,CaptMin,Regional,Italy,35990.0,61.3,114879.26722454967
+Excellent Air GmbH,CaptMax,Fractional/Corporate,Germany,51660.0,62.9,88642.19157266022
+Excellent Air GmbH,CaptMin,Fractional/Corporate,Germany,51660.0,62.9,75979.02134799448
+Zimex Aviation,CaptMax,Regional,Switzerland,90600.0,114.2,64328.90474130199
+Zimex Aviation,CaptMin,Regional,Switzerland,90600.0,114.2,24060.023426864915
+PADAVIATION,CaptMax,Fractional/Corporate,Germany,51660.0,62.9,91601.87710393297
+PADAVIATION,CaptMin,Fractional/Corporate,Germany,51660.0,62.9,77509.28062640483
+Buzz,CaptMin,Charter,Poland,16850.0,38.6,88642.19157266022
+Jet Time,CaptMax,Charter,Denmark,68300.0,78.6,164266.0642261777
+Jet Time,CaptMin,Charter,Denmark,68300.0,78.6,112357.61481074139
+Lufthansa CityLine,CaptMax,Regional,Germany,51660.0,62.9,215134.59894684635
+Lufthansa CityLine,CaptMin,Regional,Germany,51660.0,62.9,164228.65464369004
+Luxair,CaptMax,Regional,Luxembourg,88190.0,73.2,202610.72359465194
+Luxair,CaptMin,Regional,Luxembourg,88190.0,73.2,88642.19157266022
+Swiss International Air Lines,CaptMax,Legacy,Switzerland,90600.0,114.2,238166.15955283056
+Swiss International Air Lines,CaptMin,Legacy,Switzerland,90600.0,114.2,120776.20413342593
+Atlantic Airways,CaptMax,Regional,Iceland,63460.0,83.3,91309.89943332314
+Atlantic Airways,CaptMin,Regional,Iceland,63460.0,83.3,57853.80369975624
+Exxaero,CaptMax,Fractional/Corporate,Netherlands,55200.0,68.6,82310.60646032734
+Exxaero,CaptMin,Fractional/Corporate,Netherlands,55200.0,68.6,63315.85112332873
