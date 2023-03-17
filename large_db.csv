@@ -1,0 +1,647 @@
+,Airline,Top/Base,Category,Country,Income,Index,new_salary_USD_GROSS_2023,status
+0,British Airways Mainline,CaptMax,Legacy,United Kingdom,44480.0,61.5,218679.2066322842,0
+1,British Airways Mainline,CaptMin,Legacy,United Kingdom,44480.0,61.5,105890.00819395576,0
+2,DHL Air UK,CaptMax,Cargo,United Kingdom,44480.0,61.5,207381.79013833328,0
+3,DHL Air UK,CaptMin,Cargo,United Kingdom,44480.0,61.5,146582.63845375236,0
+4,LOT Polish Airlines,CaptMax,Major/National/Low Cost,Poland,16850.0,38.6,65906.49532836344,1
+5,LOT Polish Airlines,CaptMin,Major/National/Low Cost,Poland,16850.0,38.6,59377.89448126399,1
+6,Eurowings GmbH,CaptMax,Major/National/Low Cost,Germany,51660.0,62.9,199467.09158637866,1
+7,Eurowings GmbH,CaptMin,Major/National/Low Cost,Germany,51660.0,62.9,118134.71502590674,1
+8,DC Aviation,CaptMax,Fractional/Corporate,Germany,51660.0,62.9,121566.43415679116,1
+9,DC Aviation,CaptMin,Fractional/Corporate,Germany,51660.0,62.9,100320.99494717096,1
+10,ASL Airlines Belgium,CaptMax,Cargo,Belgium,50490.0,65.6,129730.39088518823,1
+11,ASL Airlines Belgium,CaptMin,Cargo,Belgium,50490.0,65.6,79170.68796675354,1
+12,Greater Bay Airlines,CaptMin,Major/National/Low Cost,Hong Kong,54460.0,75.7,122320.26247889656,1
+13,Corendon Airlines,CaptMax,Major/National/Low Cost,Turkey,9900.0,28.1,79144.81390416091,1
+14,Corendon Airlines,CaptMin,Major/National/Low Cost,Turkey,9900.0,28.1,66481.64367949516,1
+15,Hifly,CaptMax,Charter,Portugal,23890.0,45.3,253263.4044933149,1
+16,Hifly,CaptMin,Charter,Portugal,23890.0,45.3,232158.12078553866,1
+17,Air Japan,CaptMax,Legacy,Japan,42650.0,64.6,193080.0,1
+18,Air Japan,CaptMin,Legacy,Japan,42650.0,64.6,131160.0,1
+19,Air Hamburg Luftverkehrsgesellschaft mbH,CaptMax,Fractional/Corporate,Germany,51660.0,62.9,113968.5320219917,1
+20,Air Hamburg Luftverkehrsgesellschaft mbH,CaptMin,Fractional/Corporate,Germany,51660.0,62.9,75979.02134799448,1
+21,Aerowest,CaptMax,Fractional/Corporate,Germany,51660.0,62.9,117592.35845245935,1
+22,Aerowest,CaptMin,Fractional/Corporate,Germany,51660.0,62.9,70822.34359781773,1
+23,Austrian,CaptMax,Major/National/Low Cost,Austria,52760.0,66.0,186104.28120680014,1
+24,Austrian,CaptMin,Major/National/Low Cost,Austria,52760.0,66.0,117134.32457815815,1
+25,HOP,CaptMax,Regional,France,44160.0,68.7,153986.1680313886,1
+26,HOP,CaptMin,Regional,France,44160.0,68.7,80100.92263478301,1
+27,Aegean Airlines,CaptMax,Major/National/Low Cost,Greece,20000.0,54.6,101337.95778325405,1
+28,Aegean Airlines,CaptMin,Major/National/Low Cost,Greece,20000.0,54.6,64856.2929812826,1
+29,Virgin Atlantic Airways,CaptMax,Major/National/Low Cost,United Kingdom,44480.0,61.5,205979.17771244037,1
+30,Virgin Atlantic Airways,CaptMin,Major/National/Low Cost,United Kingdom,44480.0,61.5,161771.58143346026,1
+31,Loganair,CaptMax,Regional,United Kingdom,44480.0,61.5,96399.47944281102,1
+32,Loganair,CaptMin,Regional,United Kingdom,44480.0,61.5,60249.67465175688,1
+33,Private Wings Flugcharter GmbH,CaptMax,Charter,Germany,51660.0,62.9,75979.02134799448,1
+34,Private Wings Flugcharter GmbH,CaptMin,Charter,Germany,51660.0,62.9,72180.07028059475,1
+35,Volotea,CaptMax,Major/National/Low Cost,Spain,29690.0,50.6,109409.79074111204,0
+36,Volotea,CaptMin,Major/National/Low Cost,Spain,29690.0,50.6,59516.90005592901,0
+37,Global Jet,CaptMax,Fractional/Corporate,Switzerland,90600.0,114.2,193650.34298159764,1
+38,Global Jet,CaptMin,Fractional/Corporate,Switzerland,90600.0,114.2,71744.49035469166,1
+39,European Air Transport Leipzig GmbH,CaptMax,Cargo,Germany,51660.0,62.9,143245.7815814189,0
+40,European Air Transport Leipzig GmbH,CaptMin,Cargo,Germany,51660.0,62.9,112360.30940345916,0
+41,Wizz Air UK,CaptMax,Major/National/Low Cost,United Kingdom,44480.0,61.5,204848.8938159734,1
+42,Wizz Air UK,CaptMin,Major/National/Low Cost,United Kingdom,44480.0,61.5,144599.2191642165,1
+43,Eurowings Discover,CaptMax,Major/National/Low Cost,Germany,51660.0,62.9,158922.7863195551,1
+44,Eurowings Discover,CaptMin,Major/National/Low Cost,Germany,51660.0,62.9,105737.47137595898,1
+45,Air Nostrum,CaptMax,Major/National/Low Cost,Spain,29690.0,50.6,93932.63715840546,1
+46,Air Nostrum,CaptMin,Major/National/Low Cost,Spain,29690.0,50.6,58787.049488125376,1
+47,Jet2.com,CaptMax,Major/National/Low Cost,United Kingdom,44480.0,61.5,156649.1540945679,1
+48,Jet2.com,CaptMin,Major/National/Low Cost,United Kingdom,44480.0,61.5,156649.1540945679,1
+49,Trade Air,CaptMin,Charter,Croatia,17630.0,46.7,35070.649937211776,1
+50,CityJet,CaptMax,Regional,Ireland,76110.0,70.5,119052.84954412679,1
+51,CityJet,CaptMin,Regional,Ireland,76110.0,70.5,119052.84954412679,1
+52,SundAir,CaptMax,Charter,Germany,51660.0,62.9,141290.45986530508,1
+53,SundAir,CaptMin,Charter,Germany,51660.0,62.9,81295.83640406193,1
+54,Brussels Airlines,CaptMax,Major/National/Low Cost,Belgium,50490.0,65.6,179878.63190821538,1
+55,Brussels Airlines,CaptMin,Major/National/Low Cost,Belgium,50490.0,65.6,113779.42924427605,1
+56,Air Dolomiti,CaptMax,Regional,Italy,35990.0,61.3,122955.58393043699,1
+57,Air Dolomiti,CaptMin,Regional,Italy,35990.0,61.3,114879.26722454967,1
+58,Excellent Air GmbH,CaptMax,Fractional/Corporate,Germany,51660.0,62.9,88642.19157266022,1
+59,Excellent Air GmbH,CaptMin,Fractional/Corporate,Germany,51660.0,62.9,75979.02134799448,1
+60,Zimex Aviation,CaptMax,Regional,Switzerland,90600.0,114.2,64328.90474130199,0
+61,Zimex Aviation,CaptMin,Regional,Switzerland,90600.0,114.2,24060.023426864915,0
+62,PADAVIATION,CaptMax,Fractional/Corporate,Germany,51660.0,62.9,91601.87710393297,1
+63,PADAVIATION,CaptMin,Fractional/Corporate,Germany,51660.0,62.9,77509.28062640483,1
+64,Buzz,CaptMax,Charter,Poland,16850.0,38.6,125591.03770675494,1
+65,Buzz,CaptMin,Charter,Poland,16850.0,38.6,88642.19157266022,0
+66,Jet Time,CaptMax,Charter,Denmark,68300.0,78.6,164266.0642261777,1
+67,Jet Time,CaptMin,Charter,Denmark,68300.0,78.6,112357.61481074139,1
+68,Lufthansa CityLine,CaptMax,Regional,Germany,51660.0,62.9,215134.59894684635,1
+69,Lufthansa CityLine,CaptMin,Regional,Germany,51660.0,62.9,164228.65464369004,1
+70,Luxair,CaptMax,Regional,Luxembourg,88190.0,73.2,202610.72359465194,0
+71,Luxair,CaptMin,Regional,Luxembourg,88190.0,73.2,88642.19157266022,0
+72,Swiss International Air Lines,CaptMax,Legacy,Switzerland,90600.0,114.2,238166.15955283056,1
+73,Swiss International Air Lines,CaptMin,Legacy,Switzerland,90600.0,114.2,120776.20413342593,1
+74,Atlantic Airways,CaptMax,Regional,Iceland,63460.0,83.3,91309.89943332314,1
+75,Atlantic Airways,CaptMin,Regional,Iceland,63460.0,83.3,57853.80369975624,1
+76,Exxaero,CaptMax,Fractional/Corporate,Netherlands,55200.0,68.6,82310.60646032734,1
+77,Exxaero,CaptMin,Fractional/Corporate,Netherlands,55200.0,68.6,63315.85112332873,1
+78,Peach Aviation,CaptMax,Major/National/Low Cost,Japan,42650.0,64.6,162311.44140625,2
+79,Peach Aviation,CaptMin,Major/National/Low Cost,Japan,42650.0,64.6,103575.24523925781,2
+80,Greater Bay Airlines,CaptMax,Major/National/Low Cost,Hong Kong,54460.0,75.7,158373.62646484375,2
+81,Trade Air,CaptMax,Charter,Croatia,17630.0,46.7,146655.0556640625,2
+82,Plus Ultra,CaptMax,Charter,Spain,29690.0,50.6,147075.90209960938,2
+83,Plus Ultra,CaptMin,Charter,Spain,29690.0,50.6,114886.7294921875,2
+84,Nicholas Air,CaptMax,Fractional/Corporate,United States,70930.0,72.4,125948.71484375,2
+85,Nicholas Air,CaptMin,Fractional/Corporate,United States,70930.0,72.4,82646.66857910156,2
+86,DAS Private Jets GmbH,CaptMax,Fractional/Corporate,Germany,51660.0,62.9,110370.99047851562,2
+87,DAS Private Jets GmbH,CaptMin,Fractional/Corporate,Germany,51660.0,62.9,69437.21752929688,2
+88,BA Euroflyer,CaptMax,Major/National/Low Cost,United Kingdom,44480.0,61.5,151725.37475585938,2
+89,BA Euroflyer,CaptMin,Major/National/Low Cost,United Kingdom,44480.0,61.5,103295.62268066406,2
+90,Vueling,CaptMax,Major/National/Low Cost,Spain,29690.0,50.6,150341.07006835938,2
+91,Vueling,CaptMin,Major/National/Low Cost,Spain,29690.0,50.6,123099.72546386719,2
+92,CMA CGM Air Cargo,CaptMax,Cargo,France,44160.0,68.7,140829.87255859375,2
+93,CMA CGM Air Cargo,CaptMin,Cargo,France,44160.0,68.7,105901.18481445312,2
+94,TUI Airways,CaptMax,Charter,United Kingdom,44480.0,61.5,132910.7197265625,2
+95,TUI Airways,CaptMin,Charter,United Kingdom,44480.0,61.5,81600.5810546875,2
+96,Sprintair,CaptMax,Cargo,Poland,16850.0,38.6,161698.20043945312,2
+97,Sprintair,CaptMin,Cargo,Poland,16850.0,38.6,136511.150390625,2
+98,Condor,CaptMax,Charter,Germany,51660.0,62.9,134289.89331054688,2
+99,Condor,CaptMin,Charter,Germany,51660.0,62.9,79961.28100585938,2
+100,Iberia L.A.E,CaptMax,Major/National/Low Cost,Spain,29690.0,50.6,150341.07006835938,2
+101,Iberia L.A.E,CaptMin,Major/National/Low Cost,Spain,29690.0,50.6,123099.72546386719,2
+102,EuroAtlantic Airways,CaptMax,Charter,Portugal,23890.0,45.3,135535.61254882812,2
+103,EuroAtlantic Airways,CaptMin,Charter,Portugal,23890.0,45.3,108149.4228515625,2
+104,Blue Islands,CaptMax,Regional,Iceland,63460.0,83.3,110912.60766601562,2
+105,Blue Islands,CaptMin,Regional,Iceland,63460.0,83.3,61005.976806640625,2
+106,Platoon Aviation GmbH,CaptMax,Fractional/Corporate,Germany,51660.0,62.9,110370.99047851562,2
+107,Platoon Aviation GmbH,CaptMin,Fractional/Corporate,Germany,51660.0,62.9,69437.21752929688,2
+108,Platoon Aviation GmbH,CaptMax,Fractional/Corporate,Germany,51660.0,62.9,110370.99047851562,2
+109,Platoon Aviation GmbH,CaptMin,Fractional/Corporate,Germany,51660.0,62.9,69437.21752929688,2
+110,Chair Airlines,CaptMax,Major/National/Low Cost,Switzerland,90600.0,114.2,173756.703125,2
+111,Chair Airlines,CaptMin,Major/National/Low Cost,Switzerland,90600.0,114.2,108848.79370117188,2
+112,European Cargo,CaptMax,Cargo,United Kingdom,44480.0,61.5,134274.63427734375,2
+113,European Cargo,CaptMin,Cargo,United Kingdom,44480.0,61.5,99535.45385742188,2
+114,German Airways,CaptMax,Charter,Germany,51660.0,62.9,134289.89331054688,2
+115,German Airways,CaptMin,Charter,Germany,51660.0,62.9,79961.28100585938,2
+116,French Bee,CaptMax,Major/National/Low Cost,France,44160.0,68.7,155462.21362304688,2
+117,French Bee,CaptMin,Major/National/Low Cost,France,44160.0,68.7,107256.80554199219,2
+118,Air Macau,CaptMax,Regional,China,11880.0,39.2,152475.28173828125,2
+119,Air Macau,CaptMin,Regional,China,11880.0,39.2,126380.4404296875,2
+120,Bamboo Airways,CaptMax,Major/National/Low Cost,Viet Nam,3590.0,35.7,99944.98486328125,2
+121,Bamboo Airways,CaptMin,Major/National/Low Cost,Viet Nam,3590.0,35.7,61495.86877441406,2
+122,DHL Bahrain,CaptMax,Cargo,United Arab Emirates,41770.0,60.3,146253.28735351562,2
+123,DHL Bahrain,CaptMin,Cargo,United Arab Emirates,41770.0,60.3,110439.5390625,2
+124,Lufthansa Cargo,CaptMax,Cargo,Germany,51660.0,62.9,134094.5751953125,2
+125,Lufthansa Cargo,CaptMin,Cargo,Germany,51660.0,62.9,96190.97338867188,2
+126,Air Atlanta Icelandic,CaptMax,Charter,Iceland,63460.0,83.3,156659.28295898438,2
+127,Air Atlanta Icelandic,CaptMin,Charter,Iceland,63460.0,83.3,92693.89208984375,2
+128,Cargolux,CaptMax,Cargo,Luxembourg,88190.0,73.2,158946.95556640625,2
+129,Cargolux,CaptMin,Cargo,Luxembourg,88190.0,73.2,104568.90576171875,2
+130,FLY7,CaptMax,Fractional/Corporate,Switzerland,90600.0,114.2,169720.7587890625,2
+131,FLY7,CaptMin,Fractional/Corporate,Switzerland,90600.0,114.2,95483.23168945312,2
+132,Silver Cloud Air,CaptMax,Fractional/Corporate,Germany,51660.0,62.9,110370.99047851562,2
+133,Silver Cloud Air,CaptMin,Fractional/Corporate,Germany,51660.0,62.9,69437.21752929688,2
+134,SunExpress,CaptMax,Major/National/Low Cost,Turkey,9900.0,28.1,158705.22143554688,2
+135,SunExpress,CaptMin,Major/National/Low Cost,Turkey,9900.0,28.1,126598.7822265625,2
+136,Air France,CaptMax,Legacy,France,44160.0,68.7,150547.888671875,2
+137,Air France,CaptMin,Legacy,France,44160.0,68.7,107668.76196289062,2
+138,Aerologic,CaptMax,Cargo,Germany,51660.0,62.9,134094.5751953125,2
+139,Aerologic,CaptMin,Cargo,Germany,51660.0,62.9,96190.97338867188,2
+140,Portugalia Airlines,CaptMax,Regional,Portugal,23890.0,45.3,116164.9619140625,2
+141,Portugalia Airlines,CaptMin,Regional,Portugal,23890.0,45.3,101417.65515136719,2
+142,Portugalia Airlines,CaptMax,Regional,Portugal,23890.0,45.3,116164.9619140625,2
+143,Portugalia Airlines,CaptMin,Regional,Portugal,23890.0,45.3,101417.65515136719,2
+144,Businesswings,CaptMax,Cargo,Germany,51660.0,62.9,134094.5751953125,2
+145,Businesswings,CaptMin,Cargo,Germany,51660.0,62.9,96190.97338867188,2
+146,Helvetic Airways,CaptMax,Major/National/Low Cost,Switzerland,90600.0,114.2,173756.703125,2
+147,Helvetic Airways,CaptMin,Major/National/Low Cost,Switzerland,90600.0,114.2,108848.79370117188,2
+148,Level France,CaptMax,Major/National/Low Cost,France,44160.0,68.7,155462.21362304688,2
+149,Level France,CaptMin,Major/National/Low Cost,France,44160.0,68.7,107256.80554199219,2
+150,Sky Express,CaptMax,Regional,Greece,20000.0,54.6,119874.52954101562,2
+151,Sky Express,CaptMin,Regional,Greece,20000.0,54.6,103406.5791015625,2
+152,Wizz Air,CaptMax,Major/National/Low Cost,Hungary,17740.0,39.2,123498.1337890625,2
+153,Wizz Air,CaptMin,Major/National/Low Cost,Hungary,17740.0,39.2,105455.88549804688,2
+154,RVL Group,CaptMax,Charter,United Kingdom,44480.0,61.5,132910.7197265625,2
+155,RVL Group,CaptMin,Charter,United Kingdom,44480.0,61.5,81600.5810546875,2
+156,FAI rent-a-jet,CaptMax,Fractional/Corporate,Germany,51660.0,62.9,110370.99047851562,2
+157,FAI rent-a-jet,CaptMin,Fractional/Corporate,Germany,51660.0,62.9,69437.21752929688,2
+158,ETF Airways,CaptMax,Charter,Croatia,17630.0,46.7,146655.0556640625,2
+159,ETF Airways,CaptMin,Charter,Croatia,17630.0,46.7,118624.05615234375,2
+160,Air Arabia Maroc,CaptMax,Major/National/Low Cost,Morocco,3620.0,29.3,99967.10327148438,2
+161,Air Arabia Maroc,CaptMin,Major/National/Low Cost,Morocco,3620.0,29.3,61524.24865722656,2
+162,Titan Airways,CaptMax,Charter,United Kingdom,44480.0,61.5,132910.7197265625,2
+163,Titan Airways,CaptMin,Charter,United Kingdom,44480.0,61.5,81600.5810546875,2
+164,Aurigny Air Services,CaptMax,Regional,United Kingdom,44480.0,61.5,159871.29833984375,2
+165,Aurigny Air Services,CaptMin,Regional,United Kingdom,44480.0,61.5,108869.01098632812,2
+166,TWINJET,CaptMax,Regional,France,44160.0,68.7,159635.36767578125,2
+167,TWINJET,CaptMin,Regional,France,44160.0,68.7,108870.95947265625,2
+168,Carpatair,CaptMax,Charter,Romania,14160.0,37.4,195015.13208007812,2
+169,Carpatair,CaptMin,Charter,Romania,14160.0,37.4,168829.3427734375,2
+170,Emirates,CaptMax,Legacy,United Arab Emirates,41770.0,60.3,156329.17114257812,2
+171,Emirates,CaptMin,Legacy,United Arab Emirates,41770.0,60.3,111149.970703125,2
+172,Arcus Air,CaptMax,Fractional/Corporate,Germany,51660.0,62.9,110370.99047851562,2
+173,Arcus Air,CaptMin,Fractional/Corporate,Germany,51660.0,62.9,69437.21752929688,2
+174,Luxembourg Air Rescue,CaptMax,Regional,Luxembourg,88190.0,73.2,125949.94116210938,2
+175,Luxembourg Air Rescue,CaptMin,Regional,Luxembourg,88190.0,73.2,70737.68298339844,2
+176,Alaska Airlines,CaptMax,Major/National/Low Cost,United States,70930.0,72.4,156759.0390625,2
+177,Alaska Airlines,CaptMin,Major/National/Low Cost,United States,70930.0,72.4,106119.337890625,2
+178,Sun Air Of Scandinavia,CaptMax,Regional,Denmark,68300.0,78.6,100449.25341796875,2
+179,Sun Air Of Scandinavia,CaptMin,Regional,Denmark,68300.0,78.6,61062.70422363281,2
+180,Jet Aviation,CaptMax,Fractional/Corporate,Switzerland,90600.0,114.2,169720.7587890625,2
+181,Jet Aviation,CaptMin,Fractional/Corporate,Switzerland,90600.0,114.2,95483.23168945312,2
+182,Edelweiss Air,CaptMax,Major/National/Low Cost,Switzerland,90600.0,114.2,173756.703125,2
+183,Edelweiss Air,CaptMin,Major/National/Low Cost,Switzerland,90600.0,114.2,108848.79370117188,2
+184,Pegasus Airlines,CaptMax,Major/National/Low Cost,Turkey,9900.0,28.1,158705.22143554688,2
+185,Pegasus Airlines,CaptMin,Major/National/Low Cost,Turkey,9900.0,28.1,126598.7822265625,2
+186,Enter Air,CaptMax,Charter,Poland,16850.0,38.6,182841.83349609375,2
+187,Enter Air,CaptMin,Charter,Poland,16850.0,38.6,160224.86328125,2
+188,ACT AIRLINES,CaptMax,Cargo,Turkey,9900.0,28.1,188495.36547851562,2
+189,ACT AIRLINES,CaptMin,Cargo,Turkey,9900.0,28.1,153765.51977539062,2
+190,Animawings,CaptMax,Charter,Romania,14160.0,37.4,195015.13208007812,2
+191,Animawings,CaptMin,Charter,Romania,14160.0,37.4,168829.3427734375,2
+192,Albinati Aeronautics,CaptMax,Fractional/Corporate,Switzerland,90600.0,114.2,169720.7587890625,2
+193,Albinati Aeronautics,CaptMin,Fractional/Corporate,Switzerland,90600.0,114.2,95483.23168945312,2
+194,Finnair,CaptMax,Legacy,Finland,53510.0,67.5,147262.05981445312,2
+195,Finnair,CaptMin,Legacy,Finland,53510.0,67.5,104039.99682617188,2
+196,Transavia,CaptMax,Major/National/Low Cost,Netherlands,55200.0,68.6,156473.57885742188,2
+197,Transavia,CaptMin,Major/National/Low Cost,Netherlands,55200.0,68.6,104359.54565429688,2
+198,Bluebird Cargo,CaptMax,Cargo,Iceland,63460.0,83.3,145258.92456054688,2
+199,Bluebird Cargo,CaptMin,Cargo,Iceland,63460.0,83.3,101335.1455078125,2
+200,Avanti Air,CaptMax,Charter,Germany,51660.0,62.9,134289.89331054688,2
+201,Avanti Air,CaptMin,Charter,Germany,51660.0,62.9,79961.28100585938,2
+202,Lufthansa German Airlines,CaptMax,Legacy,Germany,51660.0,62.9,143241.66528320312,2
+203,Lufthansa German Airlines,CaptMin,Legacy,Germany,51660.0,62.9,99971.35400390625,2
+204,Regourd Aviation,CaptMax,Fractional/Corporate,France,44160.0,68.7,119062.78369140625,2
+205,Regourd Aviation,CaptMin,Fractional/Corporate,France,44160.0,68.7,86992.21704101562,2
+206,Swiftair,CaptMax,Charter,Spain,29690.0,50.6,147075.90209960938,2
+207,Swiftair,CaptMin,Charter,Spain,29690.0,50.6,114886.7294921875,2
+208,Air Belgium,CaptMax,Charter,Belgium,50490.0,65.6,133717.76684570312,2
+209,Air Belgium,CaptMin,Charter,Belgium,50490.0,65.6,79998.84228515625,2
+210,Qatar Executive,CaptMax,Fractional/Corporate,Qatar,62310.0,59.5,117152.1591796875,2
+211,Qatar Executive,CaptMin,Fractional/Corporate,Qatar,62310.0,59.5,75806.37365722656,2
+212,Qatar Airways,CaptMax,Legacy,Qatar,62310.0,59.5,141745.24536132812,2
+213,Qatar Airways,CaptMin,Legacy,Qatar,62310.0,59.5,101349.15966796875,2
+214,Swiss Flight Services SA,CaptMax,Charter,Switzerland,90600.0,114.2,167102.333984375,2
+215,Swiss Flight Services SA,CaptMin,Charter,Switzerland,90600.0,114.2,92743.48608398438,2
+216,Netjets Europe,CaptMax,Fractional/Corporate,Portugal,23890.0,45.3,99506.0966796875,2
+217,Netjets Europe,CaptMin,Fractional/Corporate,Portugal,23890.0,45.3,91641.19848632812,2
+218,Ryanair,CaptMax,Major/National/Low Cost,Ireland,76110.0,70.5,156780.41577148438,2
+219,Ryanair,CaptMin,Major/National/Low Cost,Ireland,76110.0,70.5,107243.5615234375,2
+220,Sunclass Airlines,CaptMax,Charter,Denmark,68300.0,78.6,147497.1533203125,2
+221,Sunclass Airlines,CaptMin,Charter,Denmark,68300.0,78.6,92749.74389648438,2
+222,Blom Norway,CaptMax,Fractional/Corporate,Norway,83880.0,88.6,169703.640625,2
+223,Blom Norway,CaptMin,Fractional/Corporate,Norway,83880.0,88.6,95992.93090820312,2
+224,Air Arabia,CaptMax,Regional,United Arab Emirates,41770.0,60.3,150957.56567382812,2
+225,Air Arabia,CaptMin,Regional,United Arab Emirates,41770.0,60.3,107570.50415039062,2
+226,Turkish Airlines,CaptMax,Legacy,Turkey,9900.0,28.1,196087.28393554688,2
+227,Turkish Airlines,CaptMin,Legacy,Turkey,9900.0,28.1,164410.77099609375,2
+228,Luxaviation Germany,CaptMax,Fractional/Corporate,Germany,51660.0,62.9,110370.99047851562,2
+229,Luxaviation Germany,CaptMin,Fractional/Corporate,Germany,51660.0,62.9,69437.21752929688,2
+230,IXAIR,CaptMax,Fractional/Corporate,France,44160.0,68.7,119062.78369140625,2
+231,IXAIR,CaptMin,Fractional/Corporate,France,44160.0,68.7,86992.21704101562,2
+232,Spirit Airlines,CaptMax,Major/National/Low Cost,United States,70930.0,72.4,156759.0390625,2
+233,Spirit Airlines,CaptMin,Major/National/Low Cost,United States,70930.0,72.4,106119.337890625,2
+234,Skybus,CaptMax,Regional,United Kingdom,44480.0,61.5,159871.29833984375,2
+235,Skybus,CaptMin,Regional,United Kingdom,44480.0,61.5,108869.01098632812,2
+236,Emerald Airlines,CaptMax,Regional,Ireland,76110.0,70.5,118810.29223632812,2
+237,Emerald Airlines,CaptMin,Regional,Ireland,76110.0,70.5,81275.21923828125,2
+238,2 Excel Aviation,CaptMax,Regional,United Kingdom,44480.0,61.5,159871.29833984375,2
+239,2 Excel Aviation,CaptMin,Regional,United Kingdom,44480.0,61.5,108869.01098632812,2
+240,Norwegian,CaptMax,Major/National/Low Cost,Norway,83880.0,88.6,173790.27978515625,2
+241,Norwegian,CaptMin,Major/National/Low Cost,Norway,83880.0,88.6,109571.96606445312,2
+242,Skyborne Airline Academy,CaptMax,Regional,United Kingdom,44480.0,61.5,159871.29833984375,2
+243,Skyborne Airline Academy,CaptMin,Regional,United Kingdom,44480.0,61.5,108869.01098632812,2
+244,DHL Air Austria,CaptMax,Cargo,Austria,52760.0,66.0,137048.05297851562,2
+245,DHL Air Austria,CaptMin,Cargo,Austria,52760.0,66.0,99185.41552734375,2
+246,Wizz Air Abu Dhabi,CaptMax,Major/National/Low Cost,United Arab Emirates,41770.0,60.3,162155.48217773438,2
+247,Wizz Air Abu Dhabi,CaptMin,Major/National/Low Cost,United Arab Emirates,41770.0,60.3,109360.13146972656,2
+248,Wizz Air Abu Dhabi,CaptMax,Major/National/Low Cost,United Arab Emirates,41770.0,60.3,162155.48217773438,2
+249,Wizz Air Abu Dhabi,CaptMin,Major/National/Low Cost,United Arab Emirates,41770.0,60.3,109360.13146972656,2
+250,Wamos Air,CaptMax,Charter,Spain,29690.0,50.6,147075.90209960938,2
+251,Wamos Air,CaptMin,Charter,Spain,29690.0,50.6,114886.7294921875,2
+252,Icelandair,CaptMax,Major/National/Low Cost,Iceland,63460.0,83.3,163379.92065429688,2
+253,Icelandair,CaptMin,Major/National/Low Cost,Iceland,63460.0,83.3,109070.51025390625,2
+254,Valljet,CaptMax,Fractional/Corporate,France,44160.0,68.7,119062.78369140625,2
+255,Valljet,CaptMin,Fractional/Corporate,France,44160.0,68.7,86992.21704101562,2
+256,ABS Jets,CaptMax,Fractional/Corporate,Russian Federation,11610.0,40.8,117965.44995117188,2
+257,ABS Jets,CaptMin,Fractional/Corporate,Russian Federation,11610.0,40.8,98938.01550292969,2
+258,flydubai,CaptMax,Major/National/Low Cost,United Arab Emirates,41770.0,60.3,162155.48217773438,2
+259,flydubai,CaptMin,Major/National/Low Cost,United Arab Emirates,41770.0,60.3,109360.13146972656,2
+260,Citilink Indonesia,CaptMax,Major/National/Low Cost,Indonesia,4180.0,31.2,99960.29321289062,2
+261,Citilink Indonesia,CaptMin,Major/National/Low Cost,Indonesia,4180.0,31.2,61521.54431152344,2
+262,Nomad Aviation,CaptMax,Fractional/Corporate,Switzerland,90600.0,114.2,169720.7587890625,2
+263,Nomad Aviation,CaptMin,Fractional/Corporate,Switzerland,90600.0,114.2,95483.23168945312,2
+264,Air New Zealand,CaptMax,Legacy,New Zealand,45230.0,72.9,151203.7421875,2
+265,Air New Zealand,CaptMin,Legacy,New Zealand,45230.0,72.9,107239.20336914062,2
+266,Fly Air41,CaptMax,Charter,Croatia,17630.0,46.7,146655.0556640625,2
+267,Fly Air41,CaptMin,Charter,Croatia,17630.0,46.7,118624.05615234375,2
+268,Gama Aviation Ltd,CaptMax,Fractional/Corporate,United Kingdom,44480.0,61.5,111659.37451171875,2
+269,Gama Aviation Ltd,CaptMin,Fractional/Corporate,United Kingdom,44480.0,61.5,80976.20361328125,2
+270,Mena Cargo,CaptMax,Cargo,United Arab Emirates,41770.0,60.3,146253.28735351562,2
+271,Mena Cargo,CaptMin,Cargo,United Arab Emirates,41770.0,60.3,110439.5390625,2
+272,Texal Air,CaptMax,Cargo,United Arab Emirates,41770.0,60.3,146253.28735351562,2
+273,Texal Air,CaptMin,Cargo,United Arab Emirates,41770.0,60.3,110439.5390625,2
+274,Transavia France,CaptMax,Major/National/Low Cost,France,44160.0,68.7,155462.21362304688,2
+275,Transavia France,CaptMin,Major/National/Low Cost,France,44160.0,68.7,107256.80554199219,2
+276,Valair Private Jets,CaptMax,Fractional/Corporate,Portugal,23890.0,45.3,99506.0966796875,2
+277,Valair Private Jets,CaptMin,Fractional/Corporate,Portugal,23890.0,45.3,91641.19848632812,2
+278,BA CityFlyer,CaptMax,Major/National/Low Cost,United Kingdom,44480.0,61.5,151725.37475585938,2
+279,BA CityFlyer,CaptMin,Major/National/Low Cost,United Kingdom,44480.0,61.5,103295.62268066406,2
+280,Aura Airlines,CaptMax,Charter,Spain,29690.0,50.6,147075.90209960938,2
+281,Aura Airlines,CaptMin,Charter,Spain,29690.0,50.6,114886.7294921875,2
+282,Easyjet German Contract,CaptMax,Major/National/Low Cost,Germany,51660.0,62.9,153694.38134765625,2
+283,Easyjet German Contract,CaptMin,Major/National/Low Cost,Germany,51660.0,62.9,101583.15673828125,2
+284,Delta Air Lines,CaptMax,Legacy,United States,70930.0,72.4,149692.98583984375,2
+285,Delta Air Lines,CaptMin,Legacy,United States,70930.0,72.4,107730.89868164062,2
+286,TL Aviation GmbH,CaptMax,Charter,Germany,51660.0,62.9,134289.89331054688,2
+287,TL Aviation GmbH,CaptMin,Charter,Germany,51660.0,62.9,79961.28100585938,2
+288,Luebeck Air,CaptMax,Regional,Germany,51660.0,62.9,131276.359375,2
+289,Luebeck Air,CaptMin,Regional,Germany,51660.0,62.9,88908.00390625,2
+290,easyJet Switzerland,CaptMax,Major/National/Low Cost,Switzerland,90600.0,114.2,173756.703125,2
+291,easyJet Switzerland,CaptMin,Major/National/Low Cost,Switzerland,90600.0,114.2,108848.79370117188,2
+292,Blubird Nordic,CaptMax,Charter,Iceland,63460.0,83.3,156659.28295898438,2
+293,Blubird Nordic,CaptMin,Charter,Iceland,63460.0,83.3,92693.89208984375,2
+294,Latam Airlines,CaptMax,Legacy,Brazil,7740.0,34.7,154984.24658203125,2
+295,Latam Airlines,CaptMin,Legacy,Brazil,7740.0,34.7,123364.05517578125,2
+296,Tyrolean Jet Services,CaptMax,Charter,Austria,52760.0,66.0,137308.58129882812,2
+297,Tyrolean Jet Services,CaptMin,Charter,Austria,52760.0,66.0,83029.27856445312,2
+298,West Atlantic UK,CaptMax,Cargo,United Kingdom,44480.0,61.5,134274.63427734375,2
+299,West Atlantic UK,CaptMin,Cargo,United Kingdom,44480.0,61.5,99535.45385742188,2
+300,SAS Ireland,CaptMax,Major/National/Low Cost,Ireland,76110.0,70.5,156780.41577148438,2
+301,SAS Ireland,CaptMin,Major/National/Low Cost,Ireland,76110.0,70.5,107243.5615234375,2
+302,Blue Panorama Airlines,CaptMax,Major/National/Low Cost,Italy,35990.0,61.3,163616.49267578125,2
+303,Blue Panorama Airlines,CaptMin,Major/National/Low Cost,Italy,35990.0,61.3,112487.8671875,2
+304,Great Dane Airlines,CaptMax,Charter,Denmark,68300.0,78.6,147497.1533203125,2
+305,Great Dane Airlines,CaptMin,Charter,Denmark,68300.0,78.6,92749.74389648438,2
+306,ACM Air Charter,CaptMax,Fractional/Corporate,Germany,51660.0,62.9,110370.99047851562,2
+307,ACM Air Charter,CaptMin,Fractional/Corporate,Germany,51660.0,62.9,69437.21752929688,2
+308,ASL,CaptMax,Fractional/Corporate,Belgium,50490.0,65.6,110000.20751953125,2
+309,ASL,CaptMin,Fractional/Corporate,Belgium,50490.0,65.6,70974.15808105469,2
+310,FTE Jerez,CaptMax,Regional,Spain,29690.0,50.6,112544.22607421875,2
+311,FTE Jerez,CaptMin,Regional,Spain,29690.0,50.6,100120.25634765625,2
+312,Neos,CaptMax,Charter,Italy,35990.0,61.3,145398.0,2
+313,Neos,CaptMin,Charter,Italy,35990.0,61.3,95806.27294921875,2
+314,Cargologic Germany,CaptMax,Cargo,Germany,51660.0,62.9,134094.5751953125,2
+315,Cargologic Germany,CaptMin,Cargo,Germany,51660.0,62.9,96190.97338867188,2
+316,Alitalia,CaptMax,Major/National/Low Cost,Italy,35990.0,61.3,163616.49267578125,2
+317,Alitalia,CaptMin,Major/National/Low Cost,Italy,35990.0,61.3,112487.8671875,2
+318,Iberia Express,CaptMax,Major/National/Low Cost,Spain,29690.0,50.6,150341.07006835938,2
+319,Iberia Express,CaptMin,Major/National/Low Cost,Spain,29690.0,50.6,123099.72546386719,2
+320,Royal Air Maroc,CaptMax,Major/National/Low Cost,Morocco,3620.0,29.3,99967.10327148438,2
+321,Royal Air Maroc,CaptMin,Major/National/Low Cost,Morocco,3620.0,29.3,61524.24865722656,2
+322,Air Antilles Express,CaptMax,Regional,France,44160.0,68.7,159635.36767578125,2
+323,Air Antilles Express,CaptMin,Regional,France,44160.0,68.7,108870.95947265625,2
+324,TUIfly,CaptMax,Charter,Germany,51660.0,62.9,134289.89331054688,2
+325,TUIfly,CaptMin,Charter,Germany,51660.0,62.9,79961.28100585938,2
+326,Northwings GmbH,CaptMax,Fractional/Corporate,Germany,51660.0,62.9,110370.99047851562,2
+327,Northwings GmbH,CaptMin,Fractional/Corporate,Germany,51660.0,62.9,69437.21752929688,2
+328,JETSTAR,CaptMax,Major/National/Low Cost,Australia,57170.0,75.3,155630.5830078125,2
+329,JETSTAR,CaptMin,Major/National/Low Cost,Australia,57170.0,75.3,105643.47216796875,2
+330,Cathay Pacific,CaptMax,Legacy,Hong Kong,54460.0,75.7,149387.89794921875,2
+331,Cathay Pacific,CaptMin,Legacy,Hong Kong,54460.0,75.7,106682.5859375,2
+332,Bluebird,CaptMax,Regional,Greece,20000.0,54.6,119874.52954101562,2
+333,Bluebird,CaptMin,Regional,Greece,20000.0,54.6,103406.5791015625,2
+334,Woodgate Aviation,CaptMax,Charter,United Kingdom,44480.0,61.5,132910.7197265625,2
+335,Woodgate Aviation,CaptMin,Charter,United Kingdom,44480.0,61.5,81600.5810546875,2
+336,DragonFly Executive Air Charter,CaptMax,Fractional/Corporate,United Kingdom,44480.0,61.5,111659.37451171875,2
+337,DragonFly Executive Air Charter,CaptMin,Fractional/Corporate,United Kingdom,44480.0,61.5,80976.20361328125,2
+338,AHK Air Hong Kong limited,CaptMax,Cargo,Hong Kong,54460.0,75.7,140192.27270507812,2
+339,AHK Air Hong Kong limited,CaptMin,Cargo,Hong Kong,54460.0,75.7,102951.15307617188,2
+340,American,CaptMax,Legacy,United States,70930.0,72.4,149692.98583984375,2
+341,American,CaptMin,Legacy,United States,70930.0,72.4,107730.89868164062,2
+342,United Airlines,CaptMax,Legacy,United States,70930.0,72.4,149692.98583984375,2
+343,United Airlines,CaptMin,Legacy,United States,70930.0,72.4,107730.89868164062,2
+344,Onur Air,CaptMax,Major/National/Low Cost,Turkey,9900.0,28.1,158705.22143554688,2
+345,Onur Air,CaptMin,Major/National/Low Cost,Turkey,9900.0,28.1,126598.7822265625,2
+346,West London Aero Club,CaptMax,Regional,United Kingdom,44480.0,61.5,159871.29833984375,2
+347,West London Aero Club,CaptMin,Regional,United Kingdom,44480.0,61.5,108869.01098632812,2
+348,Aeroflot,CaptMax,Legacy,Russian Federation,11610.0,40.8,176794.91625976562,2
+349,Aeroflot,CaptMin,Legacy,Russian Federation,11610.0,40.8,146569.83251953125,2
+350,Jota Aviation,CaptMax,Regional,United Kingdom,44480.0,61.5,159871.29833984375,2
+351,Jota Aviation,CaptMin,Regional,United Kingdom,44480.0,61.5,108869.01098632812,2
+352,Peterborough Flying School,CaptMax,Regional,United Kingdom,44480.0,61.5,159871.29833984375,2
+353,Peterborough Flying School,CaptMin,Regional,United Kingdom,44480.0,61.5,108869.01098632812,2
+354,FOXY Air Service,CaptMax,Regional,United Kingdom,44480.0,61.5,159871.29833984375,2
+355,FOXY Air Service,CaptMin,Regional,United Kingdom,44480.0,61.5,108869.01098632812,2
+356,Executive Jet Charter,CaptMax,Fractional/Corporate,United Kingdom,44480.0,61.5,111659.37451171875,2
+357,Executive Jet Charter,CaptMin,Fractional/Corporate,United Kingdom,44480.0,61.5,80976.20361328125,2
+358,LyddAir,CaptMax,Regional,United Kingdom,44480.0,61.5,159871.29833984375,2
+359,LyddAir,CaptMin,Regional,United Kingdom,44480.0,61.5,108869.01098632812,2
+360,IAS Medical,CaptMax,Fractional/Corporate,United Kingdom,44480.0,61.5,111659.37451171875,2
+361,IAS Medical,CaptMin,Fractional/Corporate,United Kingdom,44480.0,61.5,80976.20361328125,2
+362,Alitalia Cityliner,CaptMax,Major/National/Low Cost,Italy,35990.0,61.3,163616.49267578125,2
+363,Alitalia Cityliner,CaptMin,Major/National/Low Cost,Italy,35990.0,61.3,112487.8671875,2
+364,Bookajet,CaptMax,Fractional/Corporate,United Kingdom,44480.0,61.5,111659.37451171875,2
+365,Bookajet,CaptMin,Fractional/Corporate,United Kingdom,44480.0,61.5,80976.20361328125,2
+366,Arena Jet,CaptMax,Fractional/Corporate,United Kingdom,44480.0,61.5,111659.37451171875,2
+367,Arena Jet,CaptMin,Fractional/Corporate,United Kingdom,44480.0,61.5,80976.20361328125,2
+368,Evelop,CaptMax,Charter,Spain,29690.0,50.6,147075.90209960938,2
+369,Evelop,CaptMin,Charter,Spain,29690.0,50.6,114886.7294921875,2
+370,Sirio,CaptMax,Fractional/Corporate,United Kingdom,44480.0,61.5,111659.37451171875,2
+371,Sirio,CaptMin,Fractional/Corporate,United Kingdom,44480.0,61.5,80976.20361328125,2
+372,Eagle European,CaptMax,Fractional/Corporate,United Kingdom,44480.0,61.5,111659.37451171875,2
+373,Eagle European,CaptMin,Fractional/Corporate,United Kingdom,44480.0,61.5,80976.20361328125,2
+374,The Little Jet Company,CaptMax,Fractional/Corporate,United Kingdom,44480.0,61.5,111659.37451171875,2
+375,The Little Jet Company,CaptMin,Fractional/Corporate,United Kingdom,44480.0,61.5,80976.20361328125,2
+376,SaxonAir,CaptMax,Fractional/Corporate,United Kingdom,44480.0,61.5,111659.37451171875,2
+377,SaxonAir,CaptMin,Fractional/Corporate,United Kingdom,44480.0,61.5,80976.20361328125,2
+378,Zenith Aviation,CaptMax,Fractional/Corporate,United Kingdom,44480.0,61.5,111659.37451171875,2
+379,Zenith Aviation,CaptMin,Fractional/Corporate,United Kingdom,44480.0,61.5,80976.20361328125,2
+380,Pen-Avia,CaptMax,Fractional/Corporate,United Kingdom,44480.0,61.5,111659.37451171875,2
+381,Pen-Avia,CaptMin,Fractional/Corporate,United Kingdom,44480.0,61.5,80976.20361328125,2
+382,Fly Wales,CaptMax,Fractional/Corporate,United Kingdom,44480.0,61.5,111659.37451171875,2
+383,Fly Wales,CaptMin,Fractional/Corporate,United Kingdom,44480.0,61.5,80976.20361328125,2
+384,Zephyr Aviation,CaptMax,Fractional/Corporate,United Kingdom,44480.0,61.5,111659.37451171875,2
+385,Zephyr Aviation,CaptMin,Fractional/Corporate,United Kingdom,44480.0,61.5,80976.20361328125,2
+386,Catreus Ltd,CaptMax,Fractional/Corporate,United Kingdom,44480.0,61.5,111659.37451171875,2
+387,Catreus Ltd,CaptMin,Fractional/Corporate,United Kingdom,44480.0,61.5,80976.20361328125,2
+388,Catreus Ltd,CaptMax,Fractional/Corporate,United Kingdom,44480.0,61.5,111659.37451171875,2
+389,Catreus Ltd,CaptMin,Fractional/Corporate,United Kingdom,44480.0,61.5,80976.20361328125,2
+390,Air Task,CaptMax,Charter,United Kingdom,44480.0,61.5,132910.7197265625,2
+391,Air Task,CaptMin,Charter,United Kingdom,44480.0,61.5,81600.5810546875,2
+392,Ravenair,CaptMax,Regional,United Kingdom,44480.0,61.5,159871.29833984375,2
+393,Ravenair,CaptMin,Regional,United Kingdom,44480.0,61.5,108869.01098632812,2
+394,DEA Aviation,CaptMax,Fractional/Corporate,United Kingdom,44480.0,61.5,111659.37451171875,2
+395,DEA Aviation,CaptMin,Fractional/Corporate,United Kingdom,44480.0,61.5,80976.20361328125,2
+396,Jet Exchange,CaptMax,Fractional/Corporate,United Kingdom,44480.0,61.5,111659.37451171875,2
+397,Jet Exchange,CaptMin,Fractional/Corporate,United Kingdom,44480.0,61.5,80976.20361328125,2
+398,Eastern Airways,CaptMax,Regional,United Kingdom,44480.0,61.5,159871.29833984375,2
+399,Eastern Airways,CaptMin,Regional,United Kingdom,44480.0,61.5,108869.01098632812,2
+400,Air Iceland,CaptMax,Major/National/Low Cost,Iceland,63460.0,83.3,163379.92065429688,2
+401,Air Iceland,CaptMin,Major/National/Low Cost,Iceland,63460.0,83.3,109070.51025390625,2
+402,BinAir Aero Service GmbH,CaptMax,Charter,Germany,51660.0,62.9,134289.89331054688,2
+403,BinAir Aero Service GmbH,CaptMin,Charter,Germany,51660.0,62.9,79961.28100585938,2
+404,Alto Aerospace,CaptMax,Fractional/Corporate,United Kingdom,44480.0,61.5,111659.37451171875,2
+405,Alto Aerospace,CaptMin,Fractional/Corporate,United Kingdom,44480.0,61.5,80976.20361328125,2
+406,CSA Czech Airlines,CaptMax,Legacy,Russian Federation,11610.0,40.8,176794.91625976562,2
+407,CSA Czech Airlines,CaptMin,Legacy,Russian Federation,11610.0,40.8,146569.83251953125,2
+408,Norwegian Long Haul,CaptMax,Major/National/Low Cost,Norway,83880.0,88.6,173790.27978515625,2
+409,Norwegian Long Haul,CaptMin,Major/National/Low Cost,Norway,83880.0,88.6,109571.96606445312,2
+410,Orange2Fly,CaptMax,Major/National/Low Cost,Greece,20000.0,54.6,130811.57861328125,2
+411,Orange2Fly,CaptMin,Major/National/Low Cost,Greece,20000.0,54.6,116807.89416503906,2
+412,La Compagnie,CaptMax,Major/National/Low Cost,France,44160.0,68.7,155462.21362304688,2
+413,La Compagnie,CaptMin,Major/National/Low Cost,France,44160.0,68.7,107256.80554199219,2
+414,PSA,CaptMax,Regional,United States,70930.0,72.4,111039.76708984375,2
+415,PSA,CaptMin,Regional,United States,70930.0,72.4,72923.78674316406,2
+416,Volotea Airlines,CaptMax,Major/National/Low Cost,Spain,29690.0,50.6,150341.07006835938,2
+417,Volotea Airlines,CaptMin,Major/National/Low Cost,Spain,29690.0,50.6,123099.72546386719,2
+418,WestJet,CaptMax,Major/National/Low Cost,Canada,48310.0,66.1,153600.47875976562,2
+419,WestJet,CaptMin,Major/National/Low Cost,Canada,48310.0,66.1,102076.55261230469,2
+420,Air Asia,CaptMax,Major/National/Low Cost,Malaysia,10710.0,35.0,158684.38110351562,2
+421,Air Asia,CaptMin,Major/National/Low Cost,Malaysia,10710.0,35.0,126573.18908691406,2
+422,Thai Airways,CaptMax,Major/National/Low Cost,Thailand,7090.0,40.7,106503.57739257812,2
+423,Thai Airways,CaptMin,Major/National/Low Cost,Thailand,7090.0,40.7,73410.10144042969,2
+424,Thomas Cook Airlines Balearics,CaptMax,Charter,Spain,29690.0,50.6,147075.90209960938,2
+425,Thomas Cook Airlines Balearics,CaptMin,Charter,Spain,29690.0,50.6,114886.7294921875,2
+426,Blue Air,CaptMax,Major/National/Low Cost,Romania,14160.0,37.4,141185.2861328125,2
+427,Blue Air,CaptMin,Major/National/Low Cost,Romania,14160.0,37.4,114987.35424804688,2
+428,Jetfly,CaptMax,Fractional/Corporate,Luxembourg,88190.0,73.2,152343.0458984375,2
+429,Jetfly,CaptMin,Fractional/Corporate,Luxembourg,88190.0,73.2,83248.19494628906,2
+430,SkyUp Airlines,CaptMax,Major/National/Low Cost,Ukraine,4120.0,25.6,99983.474609375,2
+431,SkyUp Airlines,CaptMin,Major/National/Low Cost,Ukraine,4120.0,25.6,61540.112548828125,2
+432,"Nordic Regional Airlines, Norra",CaptMax,Regional,Finland,53510.0,67.5,131472.50830078125,2
+433,"Nordic Regional Airlines, Norra",CaptMin,Regional,Finland,53510.0,67.5,89102.13562011719,2
+434,AstonJet,CaptMax,Charter,France,44160.0,68.7,139479.62670898438,2
+435,AstonJet,CaptMin,Charter,France,44160.0,68.7,88035.54150390625,2
+436,Regional Air Lines,CaptMax,Regional,Morocco,3620.0,29.3,140667.81567382812,2
+437,Regional Air Lines,CaptMin,Regional,Morocco,3620.0,29.3,113603.69262695312,2
+438,Ukraine International Airlines,CaptMax,Major/National/Low Cost,Ukraine,4120.0,25.6,99983.474609375,2
+439,Ukraine International Airlines,CaptMin,Major/National/Low Cost,Ukraine,4120.0,25.6,61540.112548828125,2
+440,Air Charter Scotland,CaptMax,Fractional/Corporate,United Kingdom,44480.0,61.5,111659.37451171875,2
+441,Air Charter Scotland,CaptMin,Fractional/Corporate,United Kingdom,44480.0,61.5,80976.20361328125,2
+442,Olympic Air,CaptMax,Major/National/Low Cost,Greece,20000.0,54.6,130811.57861328125,2
+443,Olympic Air,CaptMin,Major/National/Low Cost,Greece,20000.0,54.6,116807.89416503906,2
+444,KLM Cityhopper,CaptMax,Regional,Netherlands,55200.0,68.6,131472.51391601562,2
+445,KLM Cityhopper,CaptMin,Regional,Netherlands,55200.0,68.6,89101.34606933594,2
+446,easyJet Europe Airline GmbH,CaptMax,Major/National/Low Cost,Austria,52760.0,66.0,155346.65844726562,2
+447,easyJet Europe Airline GmbH,CaptMin,Major/National/Low Cost,Austria,52760.0,66.0,103280.3974609375,2
+448,Scoot,CaptMax,Major/National/Low Cost,Singapore,64010.0,85.9,163368.68334960938,2
+449,Scoot,CaptMin,Major/National/Low Cost,Singapore,64010.0,85.9,109063.63061523438,2
+450,Singapore Airlines,CaptMax,Major/National/Low Cost,Singapore,64010.0,85.9,163368.68334960938,2
+451,Singapore Airlines,CaptMin,Major/National/Low Cost,Singapore,64010.0,85.9,109063.63061523438,2
+452,Luxaviation Group Luxembourg,CaptMax,Fractional/Corporate,Luxembourg,88190.0,73.2,152343.0458984375,2
+453,Luxaviation Group Luxembourg,CaptMin,Fractional/Corporate,Luxembourg,88190.0,73.2,83248.19494628906,2
+454,AirTanker,CaptMax,Charter,United Kingdom,44480.0,61.5,132910.7197265625,2
+455,AirTanker,CaptMin,Charter,United Kingdom,44480.0,61.5,81600.5810546875,2
+456,Virgin Australia Regional Airlines,CaptMax,Regional,Australia,57170.0,75.3,103174.82885742188,2
+457,Virgin Australia Regional Airlines,CaptMin,Regional,Australia,57170.0,75.3,64254.3134765625,2
+458,Malindo Air,CaptMax,Major/National/Low Cost,Malaysia,10710.0,35.0,158684.38110351562,2
+459,Malindo Air,CaptMin,Major/National/Low Cost,Malaysia,10710.0,35.0,126573.18908691406,2
+460,Southwest Airlines,CaptMax,Major/National/Low Cost,United States,70930.0,72.4,156759.0390625,2
+461,Southwest Airlines,CaptMin,Major/National/Low Cost,United States,70930.0,72.4,106119.337890625,2
+462,Etihad Airways,CaptMax,Major/National/Low Cost,United Arab Emirates,41770.0,60.3,162155.48217773438,2
+463,Etihad Airways,CaptMin,Major/National/Low Cost,United Arab Emirates,41770.0,60.3,109360.13146972656,2
+464,Skymark Airlines,CaptMax,Major/National/Low Cost,Japan,42650.0,64.6,162311.44140625,2
+465,Skymark Airlines,CaptMin,Major/National/Low Cost,Japan,42650.0,64.6,103575.24523925781,2
+466,Air Alsie denmark,CaptMax,Fractional/Corporate,Denmark,68300.0,78.6,133794.5166015625,2
+467,Air Alsie denmark,CaptMin,Fractional/Corporate,Denmark,68300.0,78.6,87689.20886230469,2
+468,ALFA AIR,CaptMax,Fractional/Corporate,Morocco,3620.0,29.3,94425.11694335938,2
+469,ALFA AIR,CaptMin,Fractional/Corporate,Morocco,3620.0,29.3,69268.748046875,2
+470,Air Peace Airline,CaptMax,Regional,Nigeria,2080.0,30.9,140117.44482421875,2
+471,Air Peace Airline,CaptMin,Regional,Nigeria,2080.0,30.9,113596.30651855469,2
+472,Eurolink,CaptMax,Fractional/Corporate,Germany,51660.0,62.9,110370.99047851562,2
+473,Eurolink,CaptMin,Fractional/Corporate,Germany,51660.0,62.9,69437.21752929688,2
+474,Go2Sky,CaptMax,Major/National/Low Cost,Russian Federation,11610.0,40.8,140466.41162109375,2
+475,Go2Sky,CaptMin,Major/National/Low Cost,Russian Federation,11610.0,40.8,118009.30969238281,2
+476,Xiamen Airlines,CaptMax,Major/National/Low Cost,China,11880.0,39.2,146109.40161132812,2
+477,Xiamen Airlines,CaptMin,Major/National/Low Cost,China,11880.0,39.2,123412.00146484375,2
+478,ExpressJet Airlines,CaptMax,Major/National/Low Cost,United States,70930.0,72.4,156759.0390625,2
+479,ExpressJet Airlines,CaptMin,Major/National/Low Cost,United States,70930.0,72.4,106119.337890625,2
+480,White Airways,CaptMax,Charter,Portugal,23890.0,45.3,135535.61254882812,2
+481,White Airways,CaptMin,Charter,Portugal,23890.0,45.3,108149.4228515625,2
+482,SF Cargo Express,CaptMax,Cargo,China,11880.0,39.2,168940.4345703125,2
+483,SF Cargo Express,CaptMin,Cargo,China,11880.0,39.2,142317.583984375,2
+484,SF Cargo Express,CaptMax,Cargo,China,11880.0,39.2,168940.4345703125,2
+485,SF Cargo Express,CaptMin,Cargo,China,11880.0,39.2,142317.583984375,2
+486,Aurora,CaptMax,Major/National/Low Cost,Russian Federation,11610.0,40.8,140466.41162109375,2
+487,Aurora,CaptMin,Major/National/Low Cost,Russian Federation,11610.0,40.8,118009.30969238281,2
+488,Corsair,CaptMax,Legacy,France,44160.0,68.7,150547.888671875,2
+489,Corsair,CaptMin,Legacy,France,44160.0,68.7,107668.76196289062,2
+490,WestJet Encore,CaptMax,Regional,Canada,48310.0,66.1,152132.8984375,2
+491,WestJet Encore,CaptMin,Regional,Canada,48310.0,66.1,100590.93115234375,2
+492,Pakistan International Airlines,CaptMax,Major/National/Low Cost,Pakistan,1470.0,18.0,102116.91333007812,2
+493,Pakistan International Airlines,CaptMin,Major/National/Low Cost,Pakistan,1470.0,18.0,64051.62744140625,2
+494,Cebu Pacific,CaptMax,Major/National/Low Cost,Philippines,3550.0,34.0,99950.14477539062,2
+495,Cebu Pacific,CaptMin,Major/National/Low Cost,Philippines,3550.0,34.0,61506.7939453125,2
+496,VietJet Air,CaptMax,Major/National/Low Cost,Viet Nam,3590.0,35.7,99944.98486328125,2
+497,VietJet Air,CaptMin,Major/National/Low Cost,Viet Nam,3590.0,35.7,61495.86877441406,2
+498,Smartwings,CaptMax,Charter,Russian Federation,11610.0,40.8,171293.15063476562,2
+499,Smartwings,CaptMin,Charter,Russian Federation,11610.0,40.8,134158.69274902344,2
+500,MS Aviation,CaptMax,Fractional/Corporate,South Africa,6530.0,37.8,109135.16064453125,2
+501,MS Aviation,CaptMin,Fractional/Corporate,South Africa,6530.0,37.8,90659.04821777344,2
+502,TAP Air Portugal,CaptMax,Major/National/Low Cost,Portugal,23890.0,45.3,107341.86450195312,2
+503,TAP Air Portugal,CaptMin,Major/National/Low Cost,Portugal,23890.0,45.3,92985.00732421875,2
+504,SAS Scandinavian Airlines,CaptMax,Legacy,Denmark,68300.0,78.6,145078.39038085938,2
+505,SAS Scandinavian Airlines,CaptMin,Legacy,Denmark,68300.0,78.6,108329.81567382812,2
+506,Air Blue,CaptMax,Major/National/Low Cost,Pakistan,1470.0,18.0,102116.91333007812,2
+507,Air Blue,CaptMin,Major/National/Low Cost,Pakistan,1470.0,18.0,64051.62744140625,2
+508,Qantas,CaptMax,Legacy,Australia,57170.0,75.3,146386.5107421875,2
+509,Qantas,CaptMin,Legacy,Australia,57170.0,75.3,106690.42333984375,2
+510,Air Europa,CaptMax,Major/National/Low Cost,Spain,29690.0,50.6,150341.07006835938,2
+511,Air Europa,CaptMin,Major/National/Low Cost,Spain,29690.0,50.6,123099.72546386719,2
+512,Air Europa Express,CaptMax,Major/National/Low Cost,Spain,29690.0,50.6,150341.07006835938,2
+513,Air Europa Express,CaptMin,Major/National/Low Cost,Spain,29690.0,50.6,123099.72546386719,2
+514,Corendon Dutch Airlines,CaptMax,Charter,Netherlands,55200.0,68.6,142667.53002929688,2
+515,Corendon Dutch Airlines,CaptMin,Charter,Netherlands,55200.0,68.6,88388.6953125,2
+516,Air Canada,CaptMax,Legacy,Canada,48310.0,66.1,144520.4189453125,2
+517,Air Canada,CaptMin,Legacy,Canada,48310.0,66.1,101618.34887695312,2
+518,Sri Lankan,CaptMax,Major/National/Low Cost,Sri Lanka,4030.0,25.3,99983.6630859375,2
+519,Sri Lankan,CaptMin,Major/National/Low Cost,Sri Lanka,4030.0,25.3,61539.93420410156,2
+520,Cobham Aviation Services Australia,CaptMax,Charter,Australia,57170.0,75.3,145787.33715820312,2
+521,Cobham Aviation Services Australia,CaptMin,Charter,Australia,57170.0,75.3,92303.87329101562,2
+522,Avianca,CaptMax,Major/National/Low Cost,Colombia,6190.0,23.1,117939.29931640625,2
+523,Avianca,CaptMin,Major/National/Low Cost,Colombia,6190.0,23.1,85877.25073242188,2
+524,Jetstar Asia,CaptMax,Major/National/Low Cost,Singapore,64010.0,85.9,163368.68334960938,2
+525,Jetstar Asia,CaptMin,Major/National/Low Cost,Singapore,64010.0,85.9,109063.63061523438,2
+526,Jetstar Pacific,CaptMax,Major/National/Low Cost,Viet Nam,3590.0,35.7,99944.98486328125,2
+527,Jetstar Pacific,CaptMin,Major/National/Low Cost,Viet Nam,3590.0,35.7,61495.86877441406,2
+528,South African Express,CaptMax,Major/National/Low Cost,South Africa,6530.0,37.8,117930.41967773438,2
+529,South African Express,CaptMin,Major/National/Low Cost,South Africa,6530.0,37.8,85819.37866210938,2
+530,LGW Luftfahrtgesellschaft Walter mbH,CaptMax,Regional,Germany,51660.0,62.9,131276.359375,2
+531,LGW Luftfahrtgesellschaft Walter mbH,CaptMin,Regional,Germany,51660.0,62.9,88908.00390625,2
+532,GOL LINHAS AEREAS S.A,CaptMax,Major/National/Low Cost,Brazil,7740.0,34.7,117947.107421875,2
+533,GOL LINHAS AEREAS S.A,CaptMin,Major/National/Low Cost,Brazil,7740.0,34.7,85834.73266601562,2
+534,Air Antwerp,CaptMax,Regional,Belgium,50490.0,65.6,152138.25048828125,2
+535,Air Antwerp,CaptMin,Regional,Belgium,50490.0,65.6,100595.91516113281,2
+536,Germanwings,CaptMax,Major/National/Low Cost,Germany,51660.0,62.9,153694.38134765625,2
+537,Germanwings,CaptMin,Major/National/Low Cost,Germany,51660.0,62.9,101583.15673828125,2
+538,UTair,CaptMax,Major/National/Low Cost,Russian Federation,11610.0,40.8,140466.41162109375,2
+539,UTair,CaptMin,Major/National/Low Cost,Russian Federation,11610.0,40.8,118009.30969238281,2
+540,Air Bridge Cargo,CaptMax,Cargo,Russian Federation,11610.0,40.8,163340.85620117188,2
+541,Air Bridge Cargo,CaptMin,Cargo,Russian Federation,11610.0,40.8,137100.58203125,2
+542,Ural Airlines,CaptMax,Major/National/Low Cost,Russian Federation,11610.0,40.8,140466.41162109375,2
+543,Ural Airlines,CaptMin,Major/National/Low Cost,Russian Federation,11610.0,40.8,118009.30969238281,2
+544,Tiger,CaptMax,Major/National/Low Cost,Australia,57170.0,75.3,155630.5830078125,2
+545,Tiger,CaptMin,Major/National/Low Cost,Australia,57170.0,75.3,105643.47216796875,2
+546,Suparna Airlines,CaptMax,Cargo,China,11880.0,39.2,168940.4345703125,2
+547,Suparna Airlines,CaptMin,Cargo,China,11880.0,39.2,142317.583984375,2
+548,Canaryfly,CaptMax,Regional,Spain,29690.0,50.6,112544.22607421875,2
+549,Canaryfly,CaptMin,Regional,Spain,29690.0,50.6,100120.25634765625,2
+550,Air China Cargo,CaptMax,Cargo,China,11880.0,39.2,168940.4345703125,2
+551,Air China Cargo,CaptMin,Cargo,China,11880.0,39.2,142317.583984375,2
+552,Tigerair Singapore,CaptMax,Major/National/Low Cost,Singapore,64010.0,85.9,163368.68334960938,2
+553,Tigerair Singapore,CaptMin,Major/National/Low Cost,Singapore,64010.0,85.9,109063.63061523438,2
+554,Chalair Aviation,CaptMax,Regional,France,44160.0,68.7,159635.36767578125,2
+555,Chalair Aviation,CaptMin,Regional,France,44160.0,68.7,108870.95947265625,2
+556,EL AL Israel Airlines,CaptMax,Major/National/Low Cost,Israel,49290.0,76.4,156224.06860351562,2
+557,EL AL Israel Airlines,CaptMin,Major/National/Low Cost,Israel,49290.0,76.4,104425.02416992188,2
+558,SAS Norge,CaptMax,Major/National/Low Cost,Norway,83880.0,88.6,173790.27978515625,2
+559,SAS Norge,CaptMin,Major/National/Low Cost,Norway,83880.0,88.6,109571.96606445312,2
+560,Tarom,CaptMax,Major/National/Low Cost,Romania,14160.0,37.4,141185.2861328125,2
+561,Tarom,CaptMin,Major/National/Low Cost,Romania,14160.0,37.4,114987.35424804688,2
+562,Hainan Airlines,CaptMax,Major/National/Low Cost,China,11880.0,39.2,146109.40161132812,2
+563,Hainan Airlines,CaptMin,Major/National/Low Cost,China,11880.0,39.2,123412.00146484375,2
+564,Comlux Aviation,CaptMax,Fractional/Corporate,Switzerland,90600.0,114.2,169720.7587890625,2
+565,Comlux Aviation,CaptMin,Fractional/Corporate,Switzerland,90600.0,114.2,95483.23168945312,2
+566,Jetflite,CaptMax,Fractional/Corporate,Finland,53510.0,67.5,115284.79321289062,2
+567,Jetflite,CaptMin,Fractional/Corporate,Finland,53510.0,67.5,74211.19702148438,2
+568,OFD Ostfriesischer-Flug-Dienst,CaptMax,Regional,Germany,51660.0,62.9,131276.359375,2
+569,OFD Ostfriesischer-Flug-Dienst,CaptMin,Regional,Germany,51660.0,62.9,88908.00390625,2
+570,Malaysia Airlines,CaptMax,Legacy,Malaysia,10710.0,35.0,196060.07690429688,2
+571,Malaysia Airlines,CaptMin,Legacy,Malaysia,10710.0,35.0,164440.00610351562,2
+572,Hong Kong Airlines,CaptMax,Major/National/Low Cost,Hong Kong,54460.0,75.7,158373.62646484375,2
+573,Hong Kong Airlines,CaptMin,Major/National/Low Cost,Hong Kong,54460.0,75.7,105635.36181640625,2
+574,Galistair,CaptMax,Charter,Spain,29690.0,50.6,147075.90209960938,2
+575,Galistair,CaptMin,Charter,Spain,29690.0,50.6,114886.7294921875,2
+576,China Eastern Airlines,CaptMax,Major/National/Low Cost,China,11880.0,39.2,146109.40161132812,2
+577,China Eastern Airlines,CaptMin,Major/National/Low Cost,China,11880.0,39.2,123412.00146484375,2
+578,China Southern Airlines,CaptMax,Legacy,China,11880.0,39.2,181644.20288085938,2
+579,China Southern Airlines,CaptMin,Legacy,China,11880.0,39.2,151128.3076171875,2
+580,Binter Canarias,CaptMax,Regional,Spain,29690.0,50.6,112544.22607421875,2
+581,Binter Canarias,CaptMin,Regional,Spain,29690.0,50.6,100120.25634765625,2
+582,Level,CaptMax,Major/National/Low Cost,Spain,29690.0,50.6,150341.07006835938,2
+583,Level,CaptMin,Major/National/Low Cost,Spain,29690.0,50.6,123099.72546386719,2
+584,ZQW Aviation Service GmbH,CaptMax,Fractional/Corporate,Germany,51660.0,62.9,110370.99047851562,2
+585,ZQW Aviation Service GmbH,CaptMin,Fractional/Corporate,Germany,51660.0,62.9,69437.21752929688,2
+586,ZQW Aviation Service GmbH,CaptMax,Fractional/Corporate,Germany,51660.0,62.9,110370.99047851562,2
+587,ZQW Aviation Service GmbH,CaptMin,Fractional/Corporate,Germany,51660.0,62.9,69437.21752929688,2
+588,Royal Brunei Airlines,CaptMax,Major/National/Low Cost,Brunei Darussalam,30320.0,55.2,152738.05078125,2
+589,Royal Brunei Airlines,CaptMin,Major/National/Low Cost,Brunei Darussalam,30320.0,55.2,128414.38256835938,2
+590,Cargolux Italia,CaptMax,Cargo,Italy,35990.0,61.3,146099.0546875,2
+591,Cargolux Italia,CaptMin,Cargo,Italy,35990.0,61.3,111945.21240234375,2
+592,Nepal Airlines,CaptMax,Major/National/Low Cost,Nepal,1220.0,24.8,102138.13671875,2
+593,Nepal Airlines,CaptMin,Major/National/Low Cost,Nepal,1220.0,24.8,64024.143798828125,2
+594,GlobeAir,CaptMax,Charter,Austria,52760.0,66.0,137308.58129882812,2
+595,GlobeAir,CaptMin,Charter,Austria,52760.0,66.0,83029.27856445312,2
+596,Gulf Air,CaptMax,Legacy,Bahrain,22950.0,52.7,158089.84033203125,2
+597,Gulf Air,CaptMin,Legacy,Bahrain,22950.0,52.7,137739.302734375,2
+598,Astra Airlines,CaptMax,Regional,Greece,20000.0,54.6,119874.52954101562,2
+599,Astra Airlines,CaptMin,Regional,Greece,20000.0,54.6,103406.5791015625,2
+600,ImperialJet Europe GmbH,CaptMax,Fractional/Corporate,Germany,51660.0,62.9,110370.99047851562,2
+601,ImperialJet Europe GmbH,CaptMin,Fractional/Corporate,Germany,51660.0,62.9,69437.21752929688,2
+602,Hawaiian Airlines,CaptMax,Major/National/Low Cost,United States,70930.0,72.4,156759.0390625,2
+603,Hawaiian Airlines,CaptMin,Major/National/Low Cost,United States,70930.0,72.4,106119.337890625,2
+604,Goldeck-Flug,CaptMax,Fractional/Corporate,Austria,52760.0,66.0,113456.58520507812,2
+605,Goldeck-Flug,CaptMin,Fractional/Corporate,Austria,52760.0,66.0,72432.63732910156,2
+606,Hong Hong Express,CaptMax,Major/National/Low Cost,Hong Kong,54460.0,75.7,158373.62646484375,2
+607,Hong Hong Express,CaptMin,Major/National/Low Cost,Hong Kong,54460.0,75.7,105635.36181640625,2
+608,Air India,CaptMax,Major/National/Low Cost,India,2150.0,22.4,102101.93334960938,2
+609,Air India,CaptMin,Major/National/Low Cost,India,2150.0,22.4,64034.55944824219,2
+610,German Private Jet Group AG,CaptMax,Fractional/Corporate,Germany,51660.0,62.9,110370.99047851562,2
+611,German Private Jet Group AG,CaptMin,Fractional/Corporate,Germany,51660.0,62.9,69437.21752929688,2
+612,German Private Jet Group AG,CaptMax,Fractional/Corporate,Germany,51660.0,62.9,110370.99047851562,2
+613,German Private Jet Group AG,CaptMin,Fractional/Corporate,Germany,51660.0,62.9,69437.21752929688,2
+614,Frontier Airlines,CaptMax,Major/National/Low Cost,United States,70930.0,72.4,156759.0390625,2
+615,Frontier Airlines,CaptMin,Major/National/Low Cost,United States,70930.0,72.4,106119.337890625,2
+616,Egypt Air,CaptMax,Major/National/Low Cost,Egypt,3350.0,21.6,99948.06396484375,2
+617,Egypt Air,CaptMin,Major/National/Low Cost,Egypt,3350.0,21.6,61552.30700683594,2
+618,Sriwijaya Air,CaptMax,Major/National/Low Cost,Indonesia,4180.0,31.2,99960.29321289062,2
+619,Sriwijaya Air,CaptMin,Major/National/Low Cost,Indonesia,4180.0,31.2,61521.54431152344,2
+620,Croatia Airlines,CaptMax,Major/National/Low Cost,Croatia,17630.0,46.7,126865.4296875,2
+621,Croatia Airlines,CaptMin,Major/National/Low Cost,Croatia,17630.0,46.7,111404.67358398438,2
+622,ScanWings,CaptMax,Fractional/Corporate,Finland,53510.0,67.5,115284.79321289062,2
+623,ScanWings,CaptMin,Fractional/Corporate,Finland,53510.0,67.5,74211.19702148438,2
+624,XL Airways France,CaptMax,Charter,France,44160.0,68.7,139479.62670898438,2
+625,XL Airways France,CaptMin,Charter,France,44160.0,68.7,88035.54150390625,2
+626,Nesma Airlines,CaptMax,Major/National/Low Cost,Egypt,3350.0,21.6,99948.06396484375,2
+627,Nesma Airlines,CaptMin,Major/National/Low Cost,Egypt,3350.0,21.6,61552.30700683594,2
+628,AIS Airlines,CaptMax,Charter,Netherlands,55200.0,68.6,142667.53002929688,2
+629,AIS Airlines,CaptMin,Charter,Netherlands,55200.0,68.6,88388.6953125,2
+630,Mesa,CaptMax,Regional,United States,70930.0,72.4,111039.76708984375,2
+631,Mesa,CaptMin,Regional,United States,70930.0,72.4,72923.78674316406,2
+632,Air Cargo Global,CaptMax,Cargo,Russian Federation,11610.0,40.8,163340.85620117188,2
+633,Air Cargo Global,CaptMin,Cargo,Russian Federation,11610.0,40.8,137100.58203125,2
+634,Air Transat,CaptMax,Charter,Canada,48310.0,66.1,133709.84399414062,2
+635,Air Transat,CaptMin,Charter,Canada,48310.0,66.1,79996.166015625,2
+636,Ellinair,CaptMax,Regional,Greece,20000.0,54.6,119874.52954101562,2
+637,Ellinair,CaptMin,Regional,Greece,20000.0,54.6,103406.5791015625,2
+638,Titan Airways Ltd,CaptMax,Regional,United Kingdom,44480.0,61.5,159871.29833984375,2
+639,Titan Airways Ltd,CaptMin,Regional,United Kingdom,44480.0,61.5,108869.01098632812,2
+640,Aeropartner,CaptMax,Fractional/Corporate,Russian Federation,11610.0,40.8,117965.44995117188,2
+641,Aeropartner,CaptMin,Fractional/Corporate,Russian Federation,11610.0,40.8,98938.01550292969,2
+642,Airnorth,CaptMax,Regional,Australia,57170.0,75.3,103174.82885742188,2
+643,Airnorth,CaptMin,Regional,Australia,57170.0,75.3,64254.3134765625,2
+644,FlyinGroup,CaptMax,Fractional/Corporate,Belgium,50490.0,65.6,110000.20751953125,2
+645,FlyinGroup,CaptMin,Fractional/Corporate,Belgium,50490.0,65.6,70974.15808105469,2
